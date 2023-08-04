@@ -6,7 +6,7 @@ author: Morpheus636
 # Site Flag
 flag:
   show: true
-  path: /assets/flag.png
+  path: /assets/GBNname.png
 
 # Comments
 disqus:
