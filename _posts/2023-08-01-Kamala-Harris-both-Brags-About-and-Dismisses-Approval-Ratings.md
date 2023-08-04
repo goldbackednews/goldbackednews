@@ -2,7 +2,7 @@
 title: Kamala Harris both Brags About and Dismisses Approval Ratings
 subhed: Can she really have it both ways?
 author: Charles Standard
-author-title: Staff Writer
+author-title: Senior Political Correspondent
 featured-image: 
   path: https://www.naturalnews.com/wp-content/uploads/sites/91/2020/10/kamala-harris-california.jpg
   cutline: VP Harris defending herself at a press conference

@@ -2,7 +2,7 @@
 title: Biden wants to ease China sanctions in exchange for fentanyl cooperation, GOP threatens to block deal
 subhed: American lives aren’t a bargaining chip GOP lawmakers say
 author: Charles Standard
-author-title: Staff Writer
+author-title: Senior Political Correspondent
 featured-image: 
   path: https://www.washingtonpost.com/resizer/tbYo5xEpdcuIxykmZHE-x73SHp8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2QQQKZUEQ2VHHQPF5RCCBM3LE.jpg
   cutline: Biden and Xi Jinping pose for the camera

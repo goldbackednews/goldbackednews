@@ -2,7 +2,7 @@
 title: “Illusion of Access” to Joe Biden sold to Business Partners by Hunter Claim Democrats
 subhed: Who is the “illusion” for?
 author: Charles Standard
-author-title: Staff Writer
+author-title: Senior Political Correspondent
 featured-image: 
   path: https://videos.usatoday.net/Brightcove2/29906170001/2014/10/29906170001_3845168410001_thumb-3324e725d9a8c828620f6a70670032a6.jpg?pubId=29906170001&quality=80&auto=webp&height=1800&width=3200&fit=crop&crop=3200%2C1800
   cutline: The Bidens
