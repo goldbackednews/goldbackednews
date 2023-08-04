@@ -1,22 +1,33 @@
 ---
-title: Test Post
-subhed: This is a test post used in developing the Jekyll News theme
-author: Jane Doe
+title: Biden wants to ease China sanctions in exchange for fentanyl cooperation, GOP threatens to block deal
+subhed: American lives aren’t a bargaining chip GOP lawmakers say
+author: Charles Standard
 author-title: Staff Writer
 featured-image: 
-  path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimprimis.hillsdale.edu%2Fwp-content%2Fuploads%2F1974%2F02%2FStack-of-Old-Newspapers.jpg&f=1&nofb=1&ipt=ca0d9786e63f70d482c378382dc08e047b69768e1a7d58338a83aa0bd00b1eaa&ipo=images
-  cutline: Test cutline
-  credit: Photographer
+  path: https://www.washingtonpost.com/resizer/tbYo5xEpdcuIxykmZHE-x73SHp8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2QQQKZUEQ2VHHQPF5RCCBM3LE.jpg
+  cutline: Biden and Xi Jinping pose for the camera
+  credit: Washington Post
 layout: post
 category: Test
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus in hac habitasse platea dictumst quisque. Nunc pulvinar sapien et ligula ullamcorper malesuada proin. Sed felis eget velit aliquet sagittis id consectetur purus. Tincidunt tortor aliquam nulla facilisi cras fermentum. Purus in mollis nunc sed id semper risus. Potenti nullam ac tortor vitae purus faucibus. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Diam sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Orci nulla pellentesque dignissim enim. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Pretium nibh ipsum consequat nisl vel pretium. Sem nulla pharetra diam sit. Elementum integer enim neque volutpat ac tincidunt vitae semper.
+Biden is considering agreeing to demands from Beijing that the U.S. lift human rights sanctions against China in return for cooperating on fentanyl trafficking.
 
-Eget gravida cum sociis natoque penatibus et magnis. Tortor at risus viverra adipiscing at in tellus. Ultrices tincidunt arcu non sodales neque. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Donec adipiscing tristique risus nec feugiat in fermentum. Pretium aenean pharetra magna ac. Tortor posuere ac ut consequat semper. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Pharetra vel turpis nunc eget lorem dolor sed viverra ipsum. Posuere morbi leo urna molestie at elementum. Tincidunt eget nullam non nisi est sit amet facilisis magna. Aliquet risus feugiat in ante metus. Magna eget est lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Velit sed ullamcorper morbi tincidunt ornare massa. Scelerisque varius morbi enim nunc faucibus a pellentesque sit amet. Pretium fusce id velit ut tortor.
+"The [Chinese Communist Party] is using American lives as a bargaining chip to achieve sanctions relief for its human rights abuses," Rep. Young Kim (R-CA), House Foreign Affairs Committee Chair Michael McCaul (R-TX), and China select committee Chair Mike Gallagher (R-WI), stated in a letter to the Biden administration.
 
-Ligula ullamcorper malesuada proin libero nunc consequat. At in tellus integer feugiat scelerisque varius morbi enim. Molestie a iaculis at erat pellentesque adipiscing commodo. Porttitor eget dolor morbi non. Id neque aliquam vestibulum morbi. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Ac odio tempor orci dapibus ultrices in iaculis. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci. Consectetur lorem donec massa sapien faucibus et molestie. Justo donec enim diam vulputate ut pharetra sit amet. Felis bibendum ut tristique et egestas. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Id consectetur purus ut faucibus pulvinar elementum integer enim. Sed turpis tincidunt id aliquet risus feugiat in ante. Fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis. Leo in vitae turpis massa. Enim tortor at auctor urna nunc.
+The letter, sent to Secretary of State Antony Blinken and Commerce Secretary Gina Raimondo, cited reporting from the Wall Street Journal that CCP officials want Biden to remove economic penalties imposed due to China’s human rights abuses in exchange for Beijing’s help in stopping the wave of fentanyl devastating the country. The three threatened that Congress could block any further efforts if talks continue along that path.
 
-Porttitor eget dolor morbi non arcu risus quis varius quam. Lectus arcu bibendum at varius vel pharetra. Neque convallis a cras semper auctor neque vitae tempus. Congue mauris rhoncus aenean vel elit. Praesent semper feugiat nibh sed pulvinar proin. Gravida arcu ac tortor dignissim convallis aenean et tortor at. Fames ac turpis egestas sed tempus urna et pharetra. Volutpat odio facilisis mauris sit amet. Sit amet consectetur adipiscing elit pellentesque. Aliquam sem fringilla ut morbi tincidunt. Pharetra pharetra massa massa ultricies mi. Metus dictum at tempor commodo ullamcorper a. Morbi quis commodo odio aenean sed adipiscing diam donec adipiscing. Tincidunt eget nullam non nisi est sit amet facilisis.
+"Given how many of our constituents have died from fentanyl overdoses, we expect the Administration to regularly engage our offices on efforts it is taking to hold the PRC accountable to these obligations," the letter said. "We do not support lifting export controls or sanctions as a condition for cooperation with [China], and we are considering legislation to ensure the Administration cannot circumvent Congress."
 
-Amet consectetur adipiscing elit ut aliquam purus sit amet luctus. In hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit. Rutrum quisque non tellus orci ac auctor augue mauris augue. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Est ante in nibh mauris cursus mattis molestie a iaculis. Adipiscing elit ut aliquam purus sit amet luctus. Vitae tempus quam pellentesque nec nam aliquam sem et tortor. Nunc scelerisque viverra mauris in aliquam sem. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare. Justo donec enim diam vulputate ut pharetra sit. Fermentum odio eu feugiat pretium nibh ipsum consequat. Amet mattis vulputate enim nulla. Volutpat est velit egestas dui id ornare arcu odio ut. Aliquet enim tortor at auctor urna nunc id cursus. Volutpat commodo sed egestas egestas fringilla. Nisi lacus sed viverra tellus. Risus nec feugiat in fermentum. Feugiat pretium nibh ipsum consequat. Dignissim suspendisse in est ante in. In fermentum et sollicitudin ac.
+"China’s Ministry of Public Security’s (MPS) Institute of Forensic Science was added to the Department of Commerce’s Entity List on June 5, 2020, for engaging in human rights violations and abuses in the Xinjiang Uighur Autonomous Region (XUAR)," the letter added. "This demonstrates the CCP’s continued efforts to link unrelated issues as a negotiation tactic and to leverage diplomatic engagement as a reward for CCP-perceived ‘good behavior."
+
+Trump’s administration sanctioned the institute in 2020 over what government documents called "China's campaign of repression, mass arbitrary detention, forced labor and high-technology surveillance against Uighurs, Kazakhs, and other members of Muslim minority groups."
+
+Beijing is trying to reduce those penalties at the expense of thousands of American lives cut short by fentanyl every year the GOP lawmakers accuse.
+
+"According to the Center for Disease Control, more than 105,000 Americans died of drug overdoses, with 66 percent of those deaths related to synthetic opioids including fentanyl in the 12-month period ending in October 2021. Further, fentanyl overdoses are a leading cause of death for Americans aged 18-45. According to the Drug Enforcement Agency, the People’s Republic of China (PRC) remains the primary source of fentanyl-related substances trafficked into the United States," the letter states.
+They accused the Biden State Department of avoiding pressure to take competitive action to instead emphasize "the importance of engagement and future meetings — which are predominately occurring in [China] — with CCP officials as success itself."
+
+"As we expected, we have not seen any concrete or tangible deliverables from meetings with the CCP. Key elements of our ability to conduct risk management, such as military-to-military communications have decreased recently and we still have no deliverables on the fentanyl crisis, which has worsened under this Administration," they wrote in the letter.
+
+They added, "We are therefore concerned that the Biden Administration continues unproductive meetings with the PRC while not producing any results."
