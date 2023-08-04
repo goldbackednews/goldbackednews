@@ -14,15 +14,7 @@ disqus:
   shortname: Gold Backed News  #REPLACEME
 
 # Analytics
-google_analytics: <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LVVZX57YYK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-LVVZX57YYK');
-</script>
+google_analytics: G-GRV8PX7ZN1
 
 # Ads
 adsense:
