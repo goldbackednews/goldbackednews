@@ -1,5 +1,5 @@
 ---
-title: "Bulldog" Prosecutor Faces Criticism Over Handling of Hunter Biden Case
+title: Bulldog Prosecutor Faces Criticism Over Handling of Hunter Biden Case
 subhed: The relentless prosecutor renowned for his 'bulldog' approach to fraud is now under fire for his seemingly lenient treatment of Hunter Biden's case.
 author: Charles Standard
 author-title: Senior Political Correspondent
