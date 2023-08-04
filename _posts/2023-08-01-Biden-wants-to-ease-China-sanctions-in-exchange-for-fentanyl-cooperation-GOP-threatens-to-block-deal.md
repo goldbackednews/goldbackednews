@@ -8,7 +8,7 @@ featured-image:
   cutline: Biden and Xi Jinping pose for the camera
   credit: Washington Post
 layout: post
-category: Test
+category: News
 ---
 
 Biden is considering agreeing to demands from Beijing that the U.S. lift human rights sanctions against China in return for cooperating on fentanyl trafficking.

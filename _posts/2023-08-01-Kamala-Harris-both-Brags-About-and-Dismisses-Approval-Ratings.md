@@ -8,7 +8,7 @@ featured-image:
   cutline: VP Harris defending herself at a press conference
   credit: Natural News
 layout: post
-category: Test
+category: News
 ---
 
 This week Vice President Kamala Harris played down the importance of approval ratings while also claiming polls show her having “great approval ratings.”
