@@ -1,5 +1,6 @@
 ---
 title: Oklahoma Governor Signs Women's Bill of Rights - A Stand Against 'Out-of-Control' Gender Ideology
+subhed: A controversial move aimed at protecting girls from 'out-of-control' gender ideology causes nationwide debate
 author: Donna Teetree
 author_title: Staff Writer
 featured_image: 
