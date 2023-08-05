@@ -5,7 +5,7 @@ author_title: Staff Writer
 featured_image: 
   path: https://g.foolcdn.com/editorial/images/525616/wall-st.jpg
   cutline: Investors scrutinize the stock market amid inflation and interest rate concerns.
-  credit: Wallpaper Cave
+  credit: Fool CDN
   alt_text: Wallstreet Street View with American Flag
 layout: post
 category: News
