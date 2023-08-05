@@ -3,7 +3,7 @@ title: Inflation Impact, Stock Market Turbulence and Interest Rates
 author: Donna Teetree
 author_title: Staff Writer
 featured_image: 
-  path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2FAOIC63L.jpg&f=1&nofb=1&ipt=9b36ffec6275033579d7ba93488f245ff49770c56123557f8cbcdf84e3deada1&ipo=images
+  path: https://g.foolcdn.com/editorial/images/525616/wall-st.jpg
   cutline: Investors scrutinize the stock market amid inflation and interest rate concerns.
   credit: Wallpaper Cave
   alt_text: Wallstreet Street View with American Flag
