@@ -1,5 +1,6 @@
 ---
 title: Elderly Maine Woman Feeds Intruder Peanut Butter & Crackers Before Alerting Police
+subhed: An 87-year-old woman unexpectedly turns the tables on a home intruder, offering hospitality before alerting the authorities
 author: Donna Teetree
 author_title: Staff Writer
 featured_image: 

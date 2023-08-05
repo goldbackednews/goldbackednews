@@ -1,5 +1,6 @@
 ---
 title: Inflation Impact, Stock Market Turbulence and Interest Rates
+subhed: Investors grow increasingly nervous as inflation and interest rates continue their upward trend
 author: Donna Teetree
 author_title: Staff Writer
 featured_image: 
