@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/640/320/Rex-Heuermann-Long-Island-Gilgo-Beach_37.jpg?ve=1&tl=1
-  cutline: A blurred image representing the emotional trauma of children.
+  cutline: Asa Ellerup, her daughter Victoria Heuermann, and son Christopher Sheridan walk through a parking lot in Atlantic City
   credit: Dario Alequin for Fox News Digital 
   alt-text: Asa Ellerup, her daughter Victoria Heuermann, and son Christopher Sheridan walk through a parking lot in Atlantic City
 layout: post
