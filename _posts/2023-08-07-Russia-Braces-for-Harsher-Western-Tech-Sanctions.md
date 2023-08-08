@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.images.dailystar.co.uk%2Fdynamic%2F1%2Fphotos%2F754000%2F620x%2Flkjhgfd-567434.jpg&f=1&nofb=1&ipt=e8583b51c2854808c2070a8b3bb6a406bc88dcf2816b0f9ac523c4f56be0c891&ipo=images
-  cutline: A symbolic image representing technology sanctions.
+  cutline: Putin and Russian millitary equipment
   credit: Daily Star
   alt-text: Putin and Russian millitary equipment
 layout: post

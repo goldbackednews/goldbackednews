@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://media.breitbart.com/media/2023/08/GettyImages-1587420489-e1691420885749-640x480.jpg
-  cutline: Germany's accounting practices for meeting NATO defense obligations are under scrutiny.
+  cutline: German troops
   credit: Getty Images
   alt-text: German troops
 layout: post

@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi2.cdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F160712212507-trump-and-pence-0712-super-tease.jpg&f=1&nofb=1&ipt=a4633a7c6c457335b8b1defaf8f33ab51823e79516e182587d2c20c88e157ae7&ipo=images
-  cutline: Donald Trump during a recent public address, countering claims made by Mike Pence about post-election conversations.
+  cutline: Donald Trump and Mike Pence
   credit: CNN
   alt-text: Donald Trump and Mike Pence
 layout: post

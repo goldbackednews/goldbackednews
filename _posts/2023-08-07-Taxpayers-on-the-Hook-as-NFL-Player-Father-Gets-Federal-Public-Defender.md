@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.treehugger.com%2Fthmb%2F2YnUabDTlIq_O-v1lma84_e8Gu4%3D%2F3973x2384%2Ffilters%3Afill(auto%2C1)%2Fbald-eagle-flying-117146366-f0a7d09f96ac460eb86e241c40b8c54c.jpg&f=1&nofb=1&ipt=d3802f72806cef84f93c3f76417ee8cb57ad48be87daf6ac2f26b2ee23999b94&ipo=images
-  cutline: NFL logo on a football pitch. The league has been caught in controversy due to an eagle poaching case involving a player's father.
+  cutline: Bald eagle over water
   credit: Treehugger.com
   alt-text: Bald eagle over water
 layout: post

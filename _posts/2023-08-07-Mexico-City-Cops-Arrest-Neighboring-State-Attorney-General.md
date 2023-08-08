@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://media.breitbart.com/media/2023/08/Uriel-Carmona-G%C3%A1ndara-arrested-in-Mexico-City-1-640x480.jpg
-  cutline: A representative image of Mexico City Police.
+  cutline: Uriel Carmona Gándara led by Mexican authorities
   credit: Mexico City Attorney General Office
   alt-text: Uriel Carmona Gándara led by Mexican authorities
 layout: post

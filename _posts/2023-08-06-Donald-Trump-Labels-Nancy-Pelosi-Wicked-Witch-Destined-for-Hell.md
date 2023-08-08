@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://media.breitbart.com/media/2019/01/GettyImages-1071827918-640x480.jpg
-  cutline: Donald Trump during his latest public address, where he targeted Speaker Nancy Pelosi with fiery remarks.
+  cutline: Pelosi and Trump
   credit: Brendan Smialowski/AFP/Getty Images
   alt-text: Pelosi and Trump
 layout: post

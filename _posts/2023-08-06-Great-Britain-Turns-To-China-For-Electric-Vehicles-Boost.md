@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.g5Lp5SXuRyWkMGu91SXuMgHaE8%26pid%3DApi&f=1&ipt=c1d3c532f9d68118465e10bf7cf7ac7f91954a20071526e6d3e0089e9c56e478&ipo=images
-  cutline: Electric vehicles on the streets of Great Britain, showcasing a pivot towards Chinese technology.
+  cutline: Picture of modern electric vehicle
   credit: Speedlux.com
   alt-text: Picture of modern electric vehicle
 layout: post

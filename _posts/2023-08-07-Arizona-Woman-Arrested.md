@@ -7,7 +7,7 @@ featured-image:
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/Melody-Felicano-Johnson.png?ve=1&tl=1
   cutline: Arizona woman arrested for allegedly pouring chlorine into her army husband's coffee.
   credit: Pima County Sheriff's Office
-  alt-text: Handcuffs and a cup of coffee.
+  alt-text: Arizona woman arrested for allegedly pouring chlorine into her army husband's coffee.
 layout: post
 category: News
 ---

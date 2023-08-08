@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F180216132706-floridavictims-12split-color-super-tease.jpg&f=1&nofb=1&ipt=adb14277af5718b92d3bcb308fd6f3f6dd255f3a0b353482dd0c98709283b91b&ipo=images
-  cutline: The proposed reenactment of the tragic Parkland school shooting has ignited controversy among community members and victims.
+  cutline: Picture of a memorial for the Parkland school shooting victims.
   credit: CNN
   alt-text: Picture of a memorial for the Parkland school shooting victims.
 layout: post

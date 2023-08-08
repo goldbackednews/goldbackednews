@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/06/640/320/Judge-Aileen-Cannon-Photo-1.jpg?ve=1&tl=1
-  cutline: Federal judge criticizes DOJ and Special Counsel for delay in Trump's classified documents case.
+  cutline: Aileen Cannon, the Florida federal judge overseeing former President Donald Trump's case
   credit: Reuters
   alt-text: Aileen Cannon, the Florida federal judge overseeing former President Donald Trump's case
 layout: post

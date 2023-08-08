@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/Daton-Viel-mugshot.jpg?ve=1&tl=1
-  cutline: SWAT teams respond to a standoff situation near Universal Orlando, resulting in the neutralization of a suspected cop shooter.
+  cutline: Daton Viel, deceased suspect
   credit: Orlando Police Department
   alt-text: Daton Viel, deceased suspect
 layout: post

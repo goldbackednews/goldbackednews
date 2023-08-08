@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://media.breitbart.com/media/2023/08/GettyImages-1466083183-1-640x480.jpg
-  cutline: Senate Majority Leader Mitch McConnell is faced with public outcry during an appearance.
+  cutline: Senate Majority Leader Mitch McConnell.
   credit: Chip Somodevilla/Getty Images
   alt-text: Senate Majority Leader Mitch McConnell.
 layout: post

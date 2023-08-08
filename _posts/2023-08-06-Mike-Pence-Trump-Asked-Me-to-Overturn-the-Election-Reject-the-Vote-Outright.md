@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.independent.co.uk%2Fs3fs-public%2Fthumbnails%2Fimage%2F2020%2F01%2F04%2F12%2Fmike-pence.jpg&f=1&nofb=1&ipt=80d892019451213818f9dab4771238e0b93775c11f9f35f06ce69dd377e99963&ipo=images
-  cutline: Mike Pence during a recent interview where he discusses the tumultuous post-election period of 2020.
+  cutline: Former Vice President Mike Pence
   credit: The Union Journal
   alt-text: Former Vice President Mike Pence
 layout: post

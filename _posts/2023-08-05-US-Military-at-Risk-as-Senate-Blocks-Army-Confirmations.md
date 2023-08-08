@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://media.wired.com/photos/5954908ece3e5e760d52d69b/master/w_2560%2Cc_limit/GettyImages-128607371.jpg
-  cutline: The U.S. Senate blocks key Army confirmations, putting the military's readiness at potential risk.
+  cutline: Picture of the Pentagon.
   credit: Wired.com/Getty Images
   alt-text: Picture of the Pentagon.
 layout: post

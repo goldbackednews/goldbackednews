@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fflvoicenews.com%2Fwp-content%2Fuploads%2F2023%2F08%2Ftrump-and-donalds1.png&f=1&nofb=1&ipt=db6cad2a14f3bbfa99e03e327f82372741793e21ca8194d95b4cb794c573fc55&ipo=images
-  cutline: Congressman Byron Donalds defends former President Donald Trump.
+  cutline: Congressman Byron Donalds and Former President Donald Trump
   credit: flvoicenews.com
   alt-text: Congressman Byron Donalds and Former President Donald Trump
 layout: post

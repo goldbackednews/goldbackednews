@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/640/320/TRUMP-2.jpg?ve=1&tl=1
-  cutline: Trump's attorney addressing the media outside the courthouse, pushing for a televised Jan 6 trial.
+  cutline: Former President Donald Trump speaking to reporters.
   credit: Saul Loeb/AFP via Getty Images
   alt-text: Former President Donald Trump speaking to reporters.
 layout: post

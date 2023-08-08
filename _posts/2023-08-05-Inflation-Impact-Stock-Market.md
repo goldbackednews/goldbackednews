@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://g.foolcdn.com/editorial/images/525616/wall-st.jpg
-  cutline: Investors scrutinize the stock market amid inflation and interest rate concerns.
+  cutline: Wallstreet Street View with American Flag
   credit: Fool CDN
   alt-text: Wallstreet Street View with American Flag
 layout: post

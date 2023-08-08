@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fcrowd-barriers-detail-29205567.jpg&f=1&nofb=1&ipt=794608e9094bceae32265f70506c905f6648065f09dd9a45fc33472c2b35a0e8&ipo=images
-  cutline: Kai Cenat, a social media star, was arrested during a riot at Union Square.
+  cutline: Metal crowd control barriers
   credit: Dreamstime
   alt-text: Metal crowd control barriers
 layout: post

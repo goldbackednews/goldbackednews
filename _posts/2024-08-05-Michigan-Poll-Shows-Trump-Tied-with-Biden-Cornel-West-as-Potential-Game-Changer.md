@@ -5,9 +5,9 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://www.gannett-cdn.com/presto/2020/10/23/USAT/cd97a61a-3bcf-4634-9286-7d0edfcd9ce4-AFP_AFP_8TN76E.jpg?crop=3199,1799,x1,y117&width=3199&height=1799&format=pjpg&auto=webp
-  cutline: Michigan poll reveals a tight race between Trump and Biden, with Cornel West's potential entry as a third-party candidate poised to upset the balance.
+  cutline: Picture of Donald Trump and Joe Biden
   credit: USA Today
-  alt-text: Picture of Donald Trump, Joe Biden, and Cornel West.
+  alt-text: Picture of Donald Trump and Joe Biden
 layout: post
 category: Politics
 ---
