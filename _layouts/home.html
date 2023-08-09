@@ -4,9 +4,7 @@ layout: base
 {%- include featured-stories.html -%}
 <div class="content-container">
   <div class="main-content">
-    {%- assign ordered_categories = site.data.categories_order -%}
-    {%- for cat_name in ordered_categories -%}
-       {%- assign category = site.categories[cat_name] -%}
+    {%- for category in site.categories -%}
       <div>
         <h2>{{ category | first }}</h2>
         {%- assign count = 0 -%}
