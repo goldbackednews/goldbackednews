@@ -9,7 +9,7 @@ featured-image:
   credit: Getty Images
   alt-text: Tory Lanez was found guilty and convicted of three felonies in the 2020 shooting of Megan Thee Stallion
 layout: post
-category: Sports & Entertainment
+category: Entertainment
 ---
 
 In the latest turn of events surrounding the controversial shooting incident involving rap artists Megan Thee Stallion and Tory Lanez, the latter has been officially sentenced to prison.

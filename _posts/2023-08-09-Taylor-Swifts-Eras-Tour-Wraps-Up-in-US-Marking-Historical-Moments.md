@@ -8,7 +8,7 @@ featured-image:
   cutline: Taylor Swift performing live during her 'Eras' tour, enchanting the audience with her electric presence.
   credit: Emma McIntyre/TAS23/Getty Images for TAS Rights Management
   alt-text: Taylor Swift performing live during her 'Eras' tour, enchanting the audience with her electric presence.
-category: Sports & Entertainment
+category: Entertainment
 ---
 
 Pop music icon Taylor Swift has concluded the U.S. leg of her monumental 'Eras' tour, leaving behind a trail of both historical achievements and frenzied chaos.
