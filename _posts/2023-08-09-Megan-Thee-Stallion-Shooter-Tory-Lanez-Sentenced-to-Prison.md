@@ -1,8 +1,8 @@
 ---
 title: "Megan Thee Stallion Shooter, Tory Lanez, Sentenced to Prison"
 subhed: "The Controversial Incident Finally Sees a Legal Conclusion"
-author: Charles Standard
-author-title: Senior Political Correspondent
+author: Donna Teetree
+author-title: Staff Writer
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/meghan-thee-stallion-tory-lanez-sentenced.jpg?ve=1&tl=1
   cutline: Tory Lanez was found guilty and convicted of three felonies in the 2020 shooting of Megan Thee Stallion
