@@ -9,7 +9,7 @@ featured-image:
   credit: Dimitrios Kambouris/Getty Images for MTV/Paramount Global
   alt-text: Lizzo performing on stage.
 layout: post
-category: News
+category: Entertainment
 ---
 
 Music sensation Lizzo finds herself amidst another storm of controversy as six new allegations surface, accusing her of inappropriate behavior. The complaints, which range from personal misconduct to fostering a sexually charged environment, add to the artist's growing list of public relations challenges.
