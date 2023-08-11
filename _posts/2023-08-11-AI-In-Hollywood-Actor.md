@@ -1,5 +1,5 @@
 ---
-title: The AI Controversy: How Hollywood Actors are Navigating Digital Doppelgängers
+title: The AI Controversy - How Hollywood Actors are Navigating Digital Doppelgängers
 subhed: With union and studio negotiations at a standstill, the implications of AI in the film industry have never been more prominent.
 author: Donna Teetree
 author-title: Staff Writer
