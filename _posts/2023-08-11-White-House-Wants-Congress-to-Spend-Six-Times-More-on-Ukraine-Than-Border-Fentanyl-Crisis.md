@@ -2,15 +2,15 @@
 
 title: "White House Wants Congress to Spend Six Times More on Ukraine Than Border, Fentanyl Crisis"
 subhed: "Biden's new spending request asks for $24 billion in support for Ukraine"
-author: Brandon Gillespie
-author-title: Fox News Correspondent
+author: Charles Standard
+author-title: Senior Political Correspondent
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/640/320/GettyImages-1528347822.jpg?ve=1&tl=1
   cutline: President Joe Biden gives his remarks as Ukrainian President Volodomyr Zelensky stands on the side during G7 Declaration of Joint Support for Ukraine during the high level NATO summit in Litexpo Conference Centre in Vilnius, Lithuania on July 12, 2023.
   credit: Dominika Zarzycka/NurPhoto via Getty Images
   alt-text: President Joe Biden and Ukrainian President Volodomyr Zelensky at a NATO summit
 layout: post
-category: News
+category: Politics
 ---
 
 According to a recent emergency spending request submitted to Congress, the Biden administration is seeking a significantly larger allocation for Ukraine compared to the border and fentanyl crisis affecting the U.S.
