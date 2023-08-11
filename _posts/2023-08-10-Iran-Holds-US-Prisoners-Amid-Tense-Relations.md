@@ -9,7 +9,7 @@ featured-image:
   credit: Nationalpedia.com
   alt-text: Capital of Iran
 layout: post
-category: Global
+category: News
 ---
 
 In the midst of escalating tensions between the U.S. and Iran, Newsmax reports that several American citizens are currently being held prisoner by the Iranian government. The exact number and identities of the detained individuals remain undisclosed.
