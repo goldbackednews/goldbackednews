@@ -4,7 +4,6 @@ subhed: With union and studio negotiations at a standstill, the implications of 
 author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
-featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/WGA-Picket-Line.jpg?ve=1&tl=1
   cutline: Members and supporters of the WGA and SAG-AFTRA picket on day 100 of the WGA strike
   credit: Cindy Ord/Getty Images
