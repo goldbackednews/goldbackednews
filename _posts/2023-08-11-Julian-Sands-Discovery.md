@@ -1,5 +1,5 @@
 ---
-title: Unveiling the Final Moments: Julian Sands' Disappearance and Discovery on Mt. Baldy
+title: Unveiling the Final Moments - Julian Sands' Disappearance and Discovery on Mt. Baldy
 subhed: Months after the disappearance, hikers unveil the heart-wrenching details of finding the 'Warlock' actor's remains.
 author: Donna Teetree
 author-title: Staff Writer
