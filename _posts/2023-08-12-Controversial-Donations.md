@@ -4,10 +4,10 @@ subhed: "Democrat candidate Brandon Presley’s campaign contributions raise eye
 author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
-  path: [To be replaced with an appropriate image link from your end]
-  cutline: [Description of Image, if available]
-  credit: [To be replaced with the appropriate photo credit]
-  alt-text: [Alternative Text for the Image]
+  path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fmississippitoday.org%2Fwp-content%2Fuploads%2F2022%2F09%2FAP_22174768373243-scaled.jpg%3Fresize%3D1536%252C1024%26ssl%3D1&f=1&nofb=1&ipt=555c296abecbf0490ff952f8bde99cf40d9b0592ea21765c1501969df9b1f666&ipo=images
+  cutline: Democrat Brandon Presley
+  credit: Mississippi Today
+  alt-text: Democrat Brandon Presley
 layout: post
 category: Politics
 ---
