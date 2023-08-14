@@ -20,9 +20,6 @@ Initially, Biden was poised to plead guilty to two misdemeanor tax counts relate
 
 In a recent statement, Hunter Biden's legal team stated, "Biden signed both agreements, was willing to waive certain rights, and to accept responsibility for his past mistakes." 
 
-![Courtroom Sketch of Hunter Biden]https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/640/320/courtsketch6.jpg?ve=1&tl=1
-*An artistic representation of Hunter Biden during a federal court appearance in Wilmington, Delaware on July 26, 2023.*
-
 Despite the tax-related deal falling apart, the attorneys stressed that the understanding concerning the gun charge remained "executed" and was, therefore, "binding."
 
 Prosecutors' declaration during the preceding month's hearing that inquiries into the president's son were ongoing apparently contradicted Hunter Biden's perception of the extent of immunity he was granted under the agreement.
