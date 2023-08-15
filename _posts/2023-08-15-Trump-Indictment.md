@@ -1,6 +1,6 @@
 ---
-title: "Trump's Fourth Indictment - A Political Chess Game?"
-subhed: "The former President leads 2024 GOP primaries amidst recurring charges, as critics point to political timing."
+title: Trump's Fourth Indictment - A Political Chess Game?
+subhed: The former President leads 2024 GOP primaries amidst recurring charges, as critics point to political timing.
 author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
