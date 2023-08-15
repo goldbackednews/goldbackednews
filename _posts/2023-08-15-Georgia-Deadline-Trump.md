@@ -1,6 +1,6 @@
 ---
-title: "Georgia's Clock Ticks for Trump - Surrender by Aug 25?"
-subhed: "Fulton County DA's ultimatum amidst sweeping indictment includes Trump and 18 others."
+title: Georgia's Clock Ticks for Trump - Surrender by Aug 25?
+subhed: Fulton County DA's ultimatum amidst sweeping indictment includes Trump and 18 others.
 author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
