@@ -1,10 +1,10 @@
 ---
-title: "New Twists in Baldwin's 'Rust' Case - Will Charges Return?"
-subhed: "Recent forensic report implies Baldwin pulled the trigger; yet, the actor firmly denies."
+title: New Twists in Baldwin's 'Rust' Case - Will Charges Return?
+subhed: Recent forensic report implies Baldwin pulled the trigger; yet, the actor firmly denies.
 author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
-  path: https://www.foxnews.com/entertainment/alec-baldwin-could-be-charged-again-fatal-rust-shooting-new-report-claims-he-pulled-trigger
+  path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/02/640/320/alec-baldwin-rust-filming.jpg?ve=1&tl=1
   cutline: Alec Baldwin on set of "Rust"
   credit: Santa Fe County Sheriff's Department
   alt-text: Alec Baldwin on the set of "Rust"
