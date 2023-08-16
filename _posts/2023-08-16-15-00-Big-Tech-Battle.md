@@ -5,9 +5,9 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthemessenger.com%2F_next%2Fimage%3Furl%3Dhttps%3A%252F%252Fcms.themessenger.com%252Fwp-content%252Fuploads%252F2023%252F06%252FKenBuck-1494902183-scaled-e1692189994154.jpg%26w%3D828%26q%3D75&f=1&nofb=1&ipt=c872a21f06f2b1d3f035a94ec15f9b2a8554e14a576dfe13132cff487f1378ba&ipo=images
-  cutline: ep. Ken Buck, R-Colo
+  cutline: Rep. Ken Buck, R-Colo
   credit: The Messenger
-  alt-text: ep. Ken Buck, R-Colo
+  alt-text: Rep. Ken Buck, R-Colo
 layout: post
 category: Politics
 ---
