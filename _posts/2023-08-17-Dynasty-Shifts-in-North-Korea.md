@@ -1,5 +1,3 @@
-
-
 ---
 title: Eternal Transgressions - Kim Jong Un's Bold Claim to Grandfather's Title
 subhed: North Korean Leader Reaches for 'Great President' Mantle, Historically Reserved for Founder Kim Il Sung
