@@ -5,9 +5,9 @@ author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/chris-peluso.jpg?ve=1&tl=1
-  cutline: "Mamma Mia!" actor Chris Peluso
+  cutline: Actor Chris Peluso
   credit: Getty Images
-  alt-text: "Mamma Mia!" actor Chris Peluso
+  alt-text: Actor Chris Peluso
 layout: post
 category: Entertainment
 ---
