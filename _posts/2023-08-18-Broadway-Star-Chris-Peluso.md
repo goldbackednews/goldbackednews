@@ -10,7 +10,7 @@ featured-image:
   alt-text: "Mamma Mia!" actor Chris Peluso
 layout: post
 category: Entertainment
-date: 2023-08-18 15:15
+
 ---
 
 A somber mood has enveloped the theatre community as it comes to terms with the tragic passing of Chris Peluso. Celebrated for his iconic roles in "Mamma Mia!" and "Wicked", Peluso left an indelible mark on both Broadway and West End.
