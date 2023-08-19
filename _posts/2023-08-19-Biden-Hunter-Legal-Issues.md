@@ -1,6 +1,6 @@
 ---
 title: President Biden Shuts Down Aide Input on Hunter's Legal Troubles
-subhed: "Hands off my family" - Biden's reported response to advisors broaching the topic
+subhed: Hands off my family - Biden's reported response to advisors broaching the topic
 author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
