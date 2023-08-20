@@ -10,6 +10,7 @@ featured-image:
   alt-text: Fulton County courthouse
 layout: post
 category: News
+date: 2023-08-15 12:03
 ---
 
 In a significant administrative oversight, the Fulton County court in Georgia admitted to unintentionally releasing a document related to former President Donald Trump being criminally charged. This release was confirmed on Tuesday, following Reuters' report on Monday that cited the document from the court's public website.

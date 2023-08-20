@@ -10,6 +10,7 @@ featured-image:
   alt-text: Friends on a couch
 layout: post
 category: Entertainment
+date: 2023-08-15 17:43
 ---
 
 ### Cable's Eroding Foundation

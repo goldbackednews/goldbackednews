@@ -10,6 +10,7 @@ featured-image:
   alt-text: Former President Donald Trump.
 layout: post
 category: Politics
+date: 2023-08-15 9:54 
 ---
 
 In an unprecedented political scenario, Donald Trump, the 45th President of the United States, faces his fourth indictment this year, all while leading in the polls for the Republican nomination for the 2024 presidential race.

@@ -10,6 +10,7 @@ featured-image:
   alt-text: "Firefighters amidst the aftermath of the explosion in San Cristobal."
 layout: post
 category: News
+date: 2023-08-15 20:21
 ---
 
 San Cristobal, a city near one of the busiest airports in the Dominican Republic, was plunged into chaos following a catastrophic explosion at a bakery. The incident, which occurred on Monday, led to the tragic death of at least three individuals, including a 4-month-old infant. Reports indicate that another 39 people sustained injuries as they frantically attempted to escape the unfolding disaster.

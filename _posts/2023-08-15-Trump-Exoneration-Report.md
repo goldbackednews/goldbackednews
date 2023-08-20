@@ -10,6 +10,7 @@ featured-image:
   alt-text: Donald Trump
 layout: post
 category: Politics
+date: 2023-08-15 10:55
 ---
 
 As legal storms cloud the political horizon for former President Donald Trump, he makes a resolute declaration: a comprehensive report exonerating him from the Georgia indictment is on its way. This anticipated revelation is set to be unveiled in a major news conference, adding another twist in Trump's enduring political saga.

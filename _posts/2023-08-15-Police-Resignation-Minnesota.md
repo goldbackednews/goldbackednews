@@ -10,6 +10,7 @@ featured-image:
   alt-text: "Crime scene tape in a street."
 layout: post
 category: News
+date: 2023-08-15 16:06
 ---
 
 In a startling turn of events, the small city of Goodhue, Minnesota, found itself without a police force after the entire department, including the chief, tendered their resignations.

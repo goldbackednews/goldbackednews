@@ -10,6 +10,7 @@ featured-image:
   alt-text: "Cubicles in an office."
 layout: post
 category: News
+date: 2023-08-15 15:02
 ---
 
 As employees worldwide adjust to post-pandemic working norms, 80 percent of U.S. company executives confess they regret their initial return-to-office mandates. A new survey brings to light a prevailing sentiment of regret among leaders who might have been too hasty in their decisions.

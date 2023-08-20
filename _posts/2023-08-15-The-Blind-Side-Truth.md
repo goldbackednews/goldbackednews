@@ -10,6 +10,7 @@ featured-image:
   alt-text: Michael Oher
 layout: post
 category: Entertainment
+date: 2023-08-15 13:14
 ---
 
 Former NFL athlete, Michael Oher, who inspired the critically acclaimed film "The Blind Side," has recently shocked the world with allegations against the Tuohy family. Oher claims that the Tuohys, who were previously celebrated for their apparent selflessness and kindness, falsely adopted him and have been exploiting him financially for over a decade.

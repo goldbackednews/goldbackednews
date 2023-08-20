@@ -10,6 +10,7 @@ featured-image:
   alt-text: Former President Trump.
 layout: post
 category: Politics
+date: 2023-08-15 19:01
 ---
 
 In an unprecedented turn of events, Georgia District Attorney Fani Willis has thrown down the gauntlet: Former President Donald Trump and 18 other individuals have until August 25 at noon to turn themselves in.
