@@ -10,6 +10,7 @@ featured-image:
   alt-text: A woman posing for a mug shot, looking stylish with a prepared hairstyle and makeup.
 layout: post
 category: News
+date: 2023-08-04 16:00:00
 
 ---
 
