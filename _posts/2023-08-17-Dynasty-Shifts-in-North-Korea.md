@@ -10,6 +10,7 @@ featured-image:
   alt-text: Kim Jong Un during a North Korean government meeting
 layout: post
 category: News
+date: 2023-08-17 13:14
 ---
 
 In a surprising move that is shifting political tides in North Korea, the nation's present dictator, Kim Jong Un, has begun adopting the political title "Great President." This title is not just any designation but is historically ascribed solely to his grandfather, the revered founder of North Korea, Kim Il Sung.

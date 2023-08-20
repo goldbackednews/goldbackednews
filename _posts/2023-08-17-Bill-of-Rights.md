@@ -11,6 +11,7 @@ featured-image:
   alt-text: Mike Huckabee
 layout: post
 category: Politics
+date: 2023-08-17 11:59
 ---
 
 Former Arkansas Governor, Mike Huckabee, voiced his concerns on Newsmax, stating that President Joe Biden's Justice Department is overreaching its bounds and infringing upon the Bill of Rights. This comes in the wake of a controversial police raid on a small Kansas newspaper, which has raised significant concerns about potential abuses of power at both federal and local levels.

@@ -10,6 +10,7 @@ featured-image:
   alt-text: Migrants gathered outside Roosevelt Hotel in NYC
 layout: post
 category: News
+date: 2023-08-17 9:58
 ---
 
 The United States is grappling with an unprecedented number of asylum seekers. According to recent data, under President Joe Biden's administration, more than 1.6 million border crossers are currently residing in the country with unresolved asylum claims. This number eclipses the populations of 11 U.S. states.

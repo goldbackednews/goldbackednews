@@ -10,6 +10,7 @@ featured-image:
   alt-text: Brad Pitt and Jennifer Aniston smiling at their wedding.
 layout: post
 category: Entertainment
+date: 2023-08-17 18:01
 ---
 
 A look into the glamorous yesteryears, Brad Pitt and Jennifer Aniston’s star-studded Malibu wedding in 2000 remains etched in the annals of Hollywood's iconic moments. As time unfolds, certain details of the grand affair emerge, reflecting the luxury and opulence that marked their union.

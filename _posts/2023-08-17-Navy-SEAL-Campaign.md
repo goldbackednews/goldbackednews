@@ -10,6 +10,7 @@ featured-image:
   alt-text: Republican Montana Senate candidate and former Navy SEAL Tim Sheehy. 
 layout: post
 category: Politics
+date: 2023-08-17 14:52
 ---
 
 Former Navy SEAL and now Republican contender, Tim Sheehy, is making waves in his ambition to unseat three-term Sen. Jon Tester, D-Mont., in a race that's gearing up to be one of the most closely observed contests in 2024.

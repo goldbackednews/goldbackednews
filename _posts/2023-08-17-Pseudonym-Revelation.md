@@ -10,6 +10,7 @@ featured-image:
   alt-text: House Oversight Committee Chair James Comer (R-KY)
 layout: post
 category: Politics
+date: 2023-08-17 16:12
 ---
 
 The House Oversight Committee, chaired by Rep. James Comer (R-KY), has issued a demand to the National Archives and Records Administration (NARA). The committee seeks access to all documents and communications wherein then-Vice President Joe Biden used several pseudonyms, notably "Robert Peters," "Robin Ware," and "JRB Ware."

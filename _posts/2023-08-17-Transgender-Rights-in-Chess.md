@@ -10,6 +10,7 @@ featured-image:
   alt-text: Two chess players deep in thought during a championship match
 layout: post
 category: News
+date: 2023-08-17 17:36
 ---
 
 A recent decision by the World Chess Federation (FIDE) has thrust the organization into the global spotlight, and not just for the brilliant gameplay of its participants. The Switzerland-based federation declared that transgender women are barred from competing in its official women's events until the federation assesses the individual's gender transition. This process, according to FIDE, can take up to two years.
