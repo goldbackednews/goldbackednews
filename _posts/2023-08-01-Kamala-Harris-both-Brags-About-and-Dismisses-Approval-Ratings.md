@@ -9,6 +9,7 @@ featured-image:
   credit: Natural News
 layout: post
 category: Politics
+date: 2023-08-01 13:00
 ---
 
 This week Vice President Kamala Harris played down the importance of approval ratings while also claiming polls show her having “great approval ratings.”

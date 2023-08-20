@@ -10,6 +10,7 @@ featured-image:
   alt-text: Hunter Biden
 layout: post
 category: Politics
+date: 2023-08-04 11:00
 ---
 
 In an astonishing turn of events, a prosecutor once heralded as a 'bulldog' on cases of financial misdeeds is now under increasing scrutiny for his perceived leniency in dealing with the Hunter Biden case.

@@ -9,6 +9,7 @@ featured-image:
   credit: USA Today
 layout: post
 category: Politics
+date: 2023-08-01 10:00
 ---
 
 Rep. Dan Goldman (D-NY) and a source familiar with the testimony allege Joe Biden had no involvement with Hunter Biden’s business affairs, despite Hunter putting his father on speakerphone more than 20 times. This is the cornerstone of the establishment media and Democrats' argument that Hunter Biden only sold an “illusion of access” to then Vice President Joe Biden to his various foreign business partners.

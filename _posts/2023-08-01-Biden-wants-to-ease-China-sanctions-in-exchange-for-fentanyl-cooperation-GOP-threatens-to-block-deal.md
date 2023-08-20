@@ -9,6 +9,7 @@ featured-image:
   credit: Washington Post
 layout: post
 category: Politics
+date: 2023-08-01 12:00
 ---
 
 Biden is considering agreeing to demands from Beijing that the U.S. lift human rights sanctions against China in return for cooperating on fentanyl trafficking.
