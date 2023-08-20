@@ -10,6 +10,7 @@ featured-image:
   alt-text: "Home protected with sandbags against impending storm"
 layout: post
 category: News
+date: 2023-08-20 13:00
 ---
 
 Amid an already eventful year, Californians face another unprecedented challenge: Tropical Storm Hilary. Weakened from its previous hurricane status, Hilary is still poised to unleash significant damage and has prompted urgent preparations across the state.

@@ -10,6 +10,7 @@ featured-image:
   alt-text: Florida Governor Ron DeSantis speaking at a campaign rally.
 layout: post
 category: Politics
+date: 2023-08-20 12:01
 ---
 
 MANCHESTER, N.H. – **Florida Gov. Ron DeSantis** is gearing up and assuring he's "ready to do what we need to" at the anticipated GOP presidential debate this Wednesday.
