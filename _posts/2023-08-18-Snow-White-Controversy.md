@@ -10,6 +10,7 @@ featured-image:
   alt-text: Rachel Zegler
 layout: post
 category: Entertainment
+date: 2023-08-18 15:24
 ---
 
 In an age of cinema reimagining and reboots, Disney's decision to remake the beloved 1937 animated classic 'Snow White' has come under sharp criticism, not least from David Hand, the son of the original film's director. He recently voiced his dissatisfaction with the new direction, lamenting the loss of key elements that defined the original narrative.

@@ -10,6 +10,7 @@ featured-image:
   alt-text: Mugshot of Pascale Ferrier
 layout: post
 category: News
+date: 2023-08-18 13:23
 ---
 
 In a startling case of politically charged violence, a Canadian woman has been sentenced to nearly 22 years in prison for her assassination attempt on former U.S. President Donald Trump using a lethal letter laced with the poison ricin.

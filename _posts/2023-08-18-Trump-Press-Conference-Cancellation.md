@@ -10,6 +10,7 @@ featured-image:
   alt-text: Donald Trump
 layout: post
 category: Politics
+date: 2023-08-18 17:32
 ---
 
 Former President Donald Trump has taken a step back from the limelight, cancelling a much-anticipated media conference where he was expected to address his recent indictment. He cited the advice of his legal team as the primary reason behind this decision.

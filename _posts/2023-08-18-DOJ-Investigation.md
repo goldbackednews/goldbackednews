@@ -10,6 +10,7 @@ featured-image:
   alt-text: Hunter Biden.
 layout: post
 category: News
+date: 2023-08-18 11:15
 ---
 
 Recent findings from an ABC News/Ipsos poll indicate a substantial number of Americans are expressing doubts about the fairness of the Department of Justice's (DOJ) ongoing investigation into Hunter Biden, son of President Joe Biden.

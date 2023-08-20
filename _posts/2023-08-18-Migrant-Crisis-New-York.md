@@ -10,6 +10,7 @@ featured-image:
   alt-text: New York City Mayor Eric Adams
 layout: post
 category: Politics
+date: 2023-08-18 12:45
 ---
 
 As New York grapples with an intensifying migrant crisis, tensions between city and state Democratic leaders surge, prompting fears of political repercussions for the party.
