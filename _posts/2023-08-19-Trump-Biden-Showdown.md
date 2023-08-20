@@ -10,6 +10,7 @@ featured-image:
   alt-text: Montage of Trump, Biden, West, and Swift
 layout: post
 category: Politics
+date: 2023-08-19 2:03
 ---
 
 In a new twist to the ongoing political landscape, a hypothetical three-way race for the White House sees former President Donald Trump leading President Joe Biden and Green Party hopeful Cornell West, as unveiled in a national Emerson College poll.

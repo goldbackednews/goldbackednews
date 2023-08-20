@@ -10,6 +10,7 @@ featured-image:
   alt-text: President Joe Biden walking out of the Roosevelt Room.
 layout: post
 category: Politics
+date: 2023-08-19 10:00
 ---
 
 President Joe Biden has taken a definitive stance on discussions regarding his son Hunter Biden's legal challenges within the White House, according to recent reports. The president appears to be distancing himself from most aides who bring forth suggestions or insights about Hunter's legal predicaments.

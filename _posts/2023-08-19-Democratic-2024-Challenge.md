@@ -10,6 +10,7 @@ featured-image:
   alt-text: [Dean Phillips, D-Minn, addressing media]
 layout: post
 category: Politics
+date: 2023-08-19 12:00
 ---
 
 Democratic currents are stirring, as Rep. Dean Phillips, representing Minnesota, throws down the gauntlet. He publicly encouraged potential challengers to step up and vie for the Democratic primary nomination against President Biden in the 2024 election.
