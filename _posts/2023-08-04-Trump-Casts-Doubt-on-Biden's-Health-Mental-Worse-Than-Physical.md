@@ -9,6 +9,7 @@ featured-image:
   credit: Economic Times/India Times
 layout: post
 category: Politics
+date: 2023-08-04 17:00
 
 ---
 
