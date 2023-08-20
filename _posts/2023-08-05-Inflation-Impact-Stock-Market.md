@@ -10,6 +10,7 @@ featured-image:
   alt-text: Wallstreet Street View with American Flag
 layout: post
 category: News
+date: 2023-08-05 15:05
 ---
 
 As the specter of inflation looms over the U.S. economy, the stock market has been experiencing bouts of turbulence. Investors and financial experts have been closely monitoring the situation, with interest rates and inflation being the key words on everyone's lips.

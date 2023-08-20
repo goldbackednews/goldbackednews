@@ -10,6 +10,7 @@ featured-image:
   alt-text: Picture of President Biden with a Gallup poll graphic in the foreground.
 layout: post
 category: Politics
+date: 2023-08-05 17:03
 ---
 
 A recent Gallup poll has revealed that the majority of Americans rate the ethical standards of the Biden administration as "not good" or "poor". This data comes as a blow to the administration and further emphasizes the mounting concerns over its handling of key issues.

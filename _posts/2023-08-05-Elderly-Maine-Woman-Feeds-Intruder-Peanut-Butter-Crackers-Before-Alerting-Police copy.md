@@ -10,6 +10,7 @@ featured-image:
   alt-text: A composed elderly woman offering crackers and peanut butter to a surprised home intruder.
 layout: post
 category: News
+date: 2023-08-05 18:00
 ---
 
 In an unusual home intrusion incident in Maine, an 87-year-old woman reportedly remained calm and fed the intruder peanut butter and crackers before using her rotary phone to call the police.

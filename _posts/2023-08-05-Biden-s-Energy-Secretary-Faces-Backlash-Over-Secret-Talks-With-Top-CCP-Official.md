@@ -10,6 +10,7 @@ featured-image:
   alt-text: Picture of Biden's Energy Secretary.
 layout: post
 category: Politics
+date: 2023-08-05 19:00
 ---
 
 Energy Secretary Jennifer Granholm has come under fire for holding undisclosed discussions with a top official from the Chinese Communist Party (CCP). The revelation of these secret talks, brought to light by Fox News Digital, has prompted a wave of criticism and raised questions about transparency in the Biden administration.

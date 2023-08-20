@@ -10,6 +10,7 @@ featured-image:
   alt-text: Picture of George Soros and Stacey Abrams.
 layout: post
 category: Politics
+date: 2023-08-05 16:01
 ---
 
 Financial filings reveal that billionaire George Soros has funneled tens of thousands of dollars into Stacey Abrams' firm for consulting services, marking another instance of his involvement in shaping the political landscape.

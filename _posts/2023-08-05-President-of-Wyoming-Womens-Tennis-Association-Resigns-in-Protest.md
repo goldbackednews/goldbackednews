@@ -10,6 +10,7 @@ featured_image:
   alt_text: A tennis court with a tennis racket and ball, symbolizing the recent controversy in the Wyoming Women's Tennis Association.
 layout: post
 category: News
+date: 2023-08-05 11:58
 ---
 
 In a move that has sent shockwaves through the sports world, the President of the Wyoming Women's Tennis Association has resigned from her position. The resignation comes as a direct protest against the inclusion of a transgender woman in the association's competitive ranks.

@@ -10,6 +10,7 @@ featured-image:
   alt-text: Picture of the Pentagon.
 layout: post
 category: Politics
+date: 2023-08-05 09:02
 ---
 
 Senator Tommy Tuberville has warned that the U.S. military's readiness could be at risk due to the Senate's move to block key Army confirmations. This comes amid ongoing discussions around defense budgets and military preparedness.

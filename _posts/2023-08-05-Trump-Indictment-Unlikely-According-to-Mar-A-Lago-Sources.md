@@ -10,6 +10,7 @@ featured-image:
   alt-text: Picture of Mar-a-Lago, former President Trump's resort and current residence.
 layout: post
 category: Politics
+date: 2023-08-05 10:04
 ---
 
 Insider sources at Mar-a-Lago, former President Donald Trump's resort and current residence, have reportedly suggested that an indictment of Trump is unlikely, counter to rampant speculation in media circles.

@@ -10,6 +10,7 @@ featured-image:
   alt-text: Picture of a memorial for the Parkland school shooting victims.
 layout: post
 category: News
+date: 2023-08-05 13:02
 
 ---
 
