@@ -10,6 +10,7 @@ featured-image:
   alt-text: Rep. Ken Buck, R-Colo
 layout: post
 category: Politics
+date: 2023-08-16 10:05
 ---
 
 Rep. Ken Buck, R-Colo., has emerged as one of the leading voices against the dominance of Big Tech companies. However, in a candid admission to Politico, Buck conceded that his endeavors might not see immediate results due to the present composition of Congress.

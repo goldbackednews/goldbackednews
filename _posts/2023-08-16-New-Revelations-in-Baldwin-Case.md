@@ -10,6 +10,7 @@ featured-image:
   alt-text: Alec Baldwin on the set of "Rust"
 layout: post
 category: Entertainment
+date: 2023-08-16 18:08
 ---
 
 **The Controversial 'Rust' Shooting Revisited**

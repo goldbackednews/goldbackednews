@@ -10,6 +10,7 @@ featured-image:
   alt-text: Fulton County Court Clerk Ché Alexander
 layout: post
 category: Politics
+date: 2023-08-16 16:09
 ---
 
 In an unforeseen twist, the Fulton County (Georgia) Clerk of Courts Office has openly confessed to a significant blunder. An indictment pertaining to former President Donald Trump was prematurely posted on their website before an official grand jury decision was reached.

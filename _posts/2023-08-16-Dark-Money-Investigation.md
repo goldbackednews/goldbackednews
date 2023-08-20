@@ -10,6 +10,7 @@ featured-image:
   alt-text: Then-House Speaker Nancy Pelosi poses with liberal billionaire donor George Soros, left, and his son, Alexander.
 layout: post
 category: Politics
+date: 2023-08-16 14:15
 ---
 
 In a growing scandal that could have wide-reaching implications, Arabella Advisors, the largest Democratic dark money network in the U.S., is being accused of financial improprieties. The IRS complaint alleges that its founder, Eric Kessler, a former appointee of President Clinton, may have illicitly benefited from its complex configuration.

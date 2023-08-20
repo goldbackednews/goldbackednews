@@ -10,6 +10,7 @@ featured-image:
   alt-text: Anthony Benjamin, left, and Steve Daley are charged with second-degree kidnapping and other charges in the abduction of a Connecticut doctor outside a NYC concert venue
 layout: post
 category: News
+date: 2023-08-16 20:01
 ---
 
 Amidst the alluring lights and entrancing music of Brooklyn Mirage, a sinister narrative has begun to emerge, interweaving disappearances, mysterious deaths, and now a chilling abduction. 

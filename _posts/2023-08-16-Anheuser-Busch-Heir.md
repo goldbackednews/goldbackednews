@@ -12,6 +12,7 @@ featured-image:
   alt-text: Bud Light can
 layout: post
 category: News
+date: 2023-08-16 12:12
 ---
 
 Anheuser-Busch, a name synonymous with America's beer legacy, could be on the verge of a historic buyback. The brand, once a hallmark of traditional American values, may soon return to its roots if heir Billy Busch's passionate proposition becomes a reality.
