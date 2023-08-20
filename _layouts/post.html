@@ -10,15 +10,18 @@ layout: base
 {%- endif -%}
 
 {%- assign date = page.date | date: "%B %-d, %Y" -%}
+{%- assign time = page.date | date: "%I:%M %p" -%}
 {%- if page.author and page.author-title -%}
   {%- for profile in site.staff -%}
     {%- if page.author == profile.title -%}
       {%- assign profile-link = profile.url -%}
     {%- endif -%}
   {%- endfor -%}
-    <h3 class="byline"><a href="{{profile-link}}">{{page.author}}</a>, {{page.author-title}} | {{ date }}</h3>
+   <h3 class="byline"><a href="{{profile-link}}">{{page.author}}</a>, {{page.author-title}} | {{ date }} at {{ time }}</h3>
+  | {{ date }}</h3>
 {%- else -%}
-  <h3 class="byline">{{ date }}</h3>
+   <h3 class="byline">{{ date }} at {{ time }}</h3>
+
 {%- endif -%}
 
 {%- if page.featured-image.path -%}
