@@ -25,17 +25,11 @@ Gov. Gavin Newsom, acutely aware of the situation, interacted with impacted comm
 
 In a move to ensure utmost safety and support for the communities, Newsom expanded the state of emergency to encompass more counties. His additional orders aim to provide care facilities with greater adaptability to tend to patients during this tumultuous period. Keeping the lines of communication open, Newsom has been in constant touch with local leaders, emergency response teams, and even President Biden to address Hilary's ongoing impact.
 
-https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/Hilary-3.jpg?ve=1&tl=1
-*A heart-rending scene from Oak Glen, California, where the roads were severely impacted by Hilary's wrath. (Credit: Roger Seheult/via REUTERS)*
-
 The State Operations Center, under the governor's directive, remains operational around the clock. Officials are not only monitoring the immediate impacts of the storm but are also preparing for potential aftershocks from the earlier earthquake.
 
 To combat Hilary's devastation, California has pooled its resources, activating the Medical and Health Coordination Center, distributing over 300,000 sandbags for flood containment, pre-positioning the California National Guard, and deploying fire and rescue teams across impacted zones.
 
 In a spirit of unity, the state is collaborating with giants like Target, Wal-Mart, CVS Health, and other essential suppliers to ensure necessary supplies are readily available. Fuel suppliers, utility providers, and telecommunication companies are also on board, ensuring the continuity of vital services.
-
-https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/Hilary-5.jpg?ve=1&tl=1
-*Maura Taura stands amidst the destruction left behind by Hilary outside her residence in Sun Valley, California. (Credit: AP/Marcio Jose Sanchez)*
 
 Furthermore, in a commendable gesture, a partnership between Newsom's office and Uber is offering discounted transport to shelters, making it a bit easier for residents to find refuge.
 
