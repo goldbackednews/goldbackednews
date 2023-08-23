@@ -1,15 +1,15 @@
 ---
 title: Lake Tahoe Retreat - Bidens' Hush-Hush Getaway Amidst Hunter's Investigation
 subhed: A Lavish Vacation Amidst Controversies - What Are the Bidens Hiding?
-author: Pat Franklin
-author-title: Staff Writer
+author: Charles Standard
+author-title: Senior Political Correspondent
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/GettyImages-1616169357.jpg?ve=1&tl=1
   cutline: President Biden and first lady Jill Biden step off Air Force One
   credit: Mandel Ngan/AFP via Getty Images
   alt-text: President Biden and first lady Jill Biden step off Air Force One
 layout: post
-category: Entertainment
+category: Politics
 date: 2023-08-23 10:08
 ---
 
