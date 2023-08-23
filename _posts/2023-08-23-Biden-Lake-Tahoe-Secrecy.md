@@ -1,6 +1,6 @@
 ---
 title: Lake Tahoe Retreat - Bidens' Hush-Hush Getaway Amidst Hunter's Investigation
-subhed: A Lavish Vacation Amidst Controversies: What Are the Bidens Hiding?
+subhed: A Lavish Vacation Amidst Controversies - What Are the Bidens Hiding?
 author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
