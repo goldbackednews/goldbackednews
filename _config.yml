@@ -38,3 +38,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 future: false
+timezone: 'America/New_York'
