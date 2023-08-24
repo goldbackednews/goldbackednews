@@ -19,7 +19,7 @@ google_analytics: G-LVVZX57YYK
 # Ads
 adsense:
   enabled: true
-  data-ad-client: ca-pub-9280169319319657  #REPLACEME
+  data-ad-client: ca-pub-  #REPLACEME
 
 # Collections
 collections:
@@ -37,3 +37,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+
+# Post Dates
+future: false
