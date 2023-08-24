@@ -1,6 +1,6 @@
 ---
 title: Fresh Leads in BTK Serial Killer's Legacy - New Findings from Former Kansas Property
-subhed: "Items of interest" uncovered in cold case probe pointing to Dennis Rader, the notorious BTK serial killer.
+subhed: Items of interest uncovered in cold case probe pointing to Dennis Rader, the notorious BTK serial killer.
 author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
