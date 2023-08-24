@@ -1,29 +1,22 @@
-name: Hourly Jekyll Build
+name: Build Jekyll site
 
 on:
   schedule:
-    - cron: '0 * * * *'  # This will run the action every hour
+    - cron: '0 * * * *'
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Setup Node.js v16
-      uses: actions/setup-node@v2
+    - name: Set up Ruby and install gems
+      uses: ruby/setup-ruby@v1
       with:
-        node-version: 16
+        ruby-version: 3.2.2
+        bundler-cache: true
 
     - name: Build Jekyll site
-      run: |
-        gem install jekyll bundler
-        bundle install
-        bundle exec jekyll build
-
-    - name: Post Build Cleanup (Optional)
-      run: echo "Post build tasks can go here"
-      if: runner.os == 'linux'  # This condition can be modified as per your requirements
+      run: bundle exec jekyll build
