@@ -6,7 +6,7 @@ author-title: Senior Political Correspondent
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/640/320/servicemembers-thumb.jpg?ve=1&tl=1
   cutline: The 13 U.S. service members who were killed in terrorists blasts outside Kabul's airport.
-  credit: Top from left to right: Family Handout, Facebook/Nick Schroer, Family Handout, City of Rio Bravo, @Nicole_Gee_/Instagram, Naval Amphibious Force, Facebook. Bottom left to right: Facebook, Facebook, Family Handout, U.S. Navy, Facebook, GoFundMe.com
+  credit: Top from left to right; Family Handout, Facebook/Nick Schroer, Family Handout, City of Rio Bravo, @Nicole_Gee_/Instagram, Naval Amphibious Force, Facebook. Bottom left to right; Facebook, Facebook, Family Handout, U.S. Navy, Facebook, GoFundMe.com
   alt-text: The 13 U.S. service members who were killed in terrorists blasts outside Kabul's airport.
 layout: post
 category: Politics
