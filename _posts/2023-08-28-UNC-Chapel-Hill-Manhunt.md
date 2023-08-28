@@ -10,7 +10,7 @@ featured-image:
   alt-text: UNC Police released a picture of a person of interest in today's armed and dangerous situation
 layout: post
 category: News
-date: 2023-08-28 16:54
+date: 2023-08-28 15:54
 ---
 
 A serene afternoon at the University of North Carolina (UNC) in Chapel Hill was shattered by the chilling echo of a gunshot. The incident, which transpired just after 1 p.m., thrust the university community into a state of high alert.
