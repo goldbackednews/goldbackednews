@@ -1,0 +1,42 @@
+---
+title: Controversy on the Green - PGA Commissioner's Tumultuous Deal with LIV Golf
+subhed: After facing health challenges and boos, Monahan remains hopeful of the future pact with Saudi-backers.
+author: Donna Teetree
+author-title: Staff Writer
+featured-image: 
+  path: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgolf.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fjay-monahan-pga-tour.jpg&f=1&nofb=1&ipt=251d7c78679ac1a2bae8b0b56d367c9f7c34e8dddb5d56e6e78d48b6d0cf4ca2&ipo=images
+  cutline: PGA Commissioner Jay Monahan addressing the media.
+  credit: Golf.com
+  alt-text: PGA Commissioner Jay Monahan addressing the media.
+layout: post
+category: News
+date: 2023-08-28 13:42
+---
+
+The golfing world recently witnessed a tense moment when PGA Commissioner Jay Monahan was met with boos as he presented the Tour Championship's FedEx Cup trophy. The disapproval, a direct reaction to his controversial pact with LIV Golf, highlights the complex dynamics surrounding the deal.
+
+Monahan's move towards finalizing an agreement with Saudi backers of LIV Golf has been a rocky one. The Commissioner recently took a break from his duties due to a "medical situation" stemming from the stress of negotiating this very deal.
+
+### The Road to Controversy
+
+In an unexpected turn, Monahan, who had been out for five weeks during the summer, cited rising anxiety over the last two years as the cause for his hiatus. There were even whispers in the golfing corridors that he might not return to his post.
+
+The tentative deal at the heart of the turmoil involves a fresh commercial venture with Saudi Arabia's national wealth fund and the European tour. It is slated to be sealed by December 31. However, the journey to the agreement hasn't been straightforward. Players have voiced feelings of betrayal regarding the PGA Tour's unexpected switch in stance towards a partnership with the Saudis.
+
+Monahan's notable admission? Leaving the players in the shadows about the whole affair. "I put players on their back foot," he admitted, expressing remorse for his lack of transparency and vowing not to repeat such a mistake.
+
+### The Path Forward
+
+Despite the backlash and personal challenges, Monahan remains optimistic. He envisions the year's end as a turning point, hoping for the PGA Tour's trajectory to shift towards a brighter, more positive direction. While the Tour isn't seeking external investors, conversations with PIF (Saudi Arabia's Public Investment Fund) continue. The Commissioner's aim? To get the partnership terms just right.
+
+Monahan sees this collaboration as an opportunity for the PGA Tour to forge a new business model that beckons PIF's investment. The overarching goal is to expand the PGA Tour in a manner beneficial to both players and fans.
+
+An intriguing facet of this partnership is the so-called "NewCo." This term, commonly used in business dealings, refers to a new commercial entity. In this context, it's PGA Tour Enterprises, a profit-driven entity distinct from the tax-exempt PGA Tour Inc.
+
+### Personal Battles and the Future
+
+While the Saudi agreement undeniably added to Monahan's stress, he disclosed that his anxiety had been snowballing for quite some time. His decision to temporarily step down was to prioritize his well-being and mental health. Describing his exit as "difficult", he emphasized his commitment to leading the PGA Tour towards brighter horizons.
+
+As the golf community continues to process the implications of the pending deal and Monahan's challenges, they also celebrate Viktor Hovland's triumph. The talented golfer bagged the Tour Championship, FedEx Cup, and an impressive $18 million bonus, attributing his success to a play strategy reminiscent of golf legend Tiger Woods.
+
+While the dust is yet to settle around the PGA and LIV Golf deal, one thing is clear: the world of golf remains as unpredictable and enthralling as the game itself.
