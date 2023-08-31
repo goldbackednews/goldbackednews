@@ -9,7 +9,7 @@ featured-image:
   credit: Erin Clark/The Boston Globe via Getty Images
   alt-text: Former President Donald Trump speaking.
 layout: post
-category: Entertainment
+category: Politics
 date: 2023-08-31 09:31
 ---
 
