@@ -1,5 +1,3 @@
-2023-09-05-Biden-Foreign-Workforce.md
-
 ---
 title: Biden's Ill-Advised Gamble - Boosting Foreign Workforce Amidst American Joblessness
 subhed: A controversial move that sidesteps 44 million unemployed Americans
