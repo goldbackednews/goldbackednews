@@ -37,5 +37,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-future: true
+future: false
 timezone: 'America/New_York'
