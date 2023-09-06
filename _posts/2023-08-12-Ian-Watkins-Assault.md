@@ -4,12 +4,13 @@ subhed: Former Lostprophets frontman, imprisoned for horrific child sex crimes, 
 author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
-  path: https://media.breitbart.com/media/2023/08/ian-watkins-mugshot-640x480.jpg
+  path: "https://media.breitbart.com/media/2023/08/ian-watkins-mugshot-640x480.jpg"
   cutline: A mugshot of Ian Watkins, former Lostprophets singer.
   credit: South Wales Police
   alt-text: Close-up photo of Ian Watkins, known for his association with the band Lostprophets.
 layout: post
 category: Entertainment
+date: 2023-08-12 13:42
 ---
 
 Ian Watkins, the controversial former lead singer of the rock band Lostprophets, faced a brutal assault inside HMP Wakefield, where he's currently serving a 29-year sentence for grave child sex crimes. According to sources, Watkins is in critical condition following the incident.

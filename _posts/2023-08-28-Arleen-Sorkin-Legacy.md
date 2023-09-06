@@ -4,7 +4,7 @@ subhed: 'Days of Our Lives' Star and Quintessential Voice of DC's Harley Quinn P
 author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
-  path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/arleen-sorkin-dead.jpg?ve=1&tl=1
+  path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/arleen-sorkin-dead.jpg?ve=1&tl=1"
   cutline: Arleen Sorkin, known for her portrayal of Calliope Jones and as the original voice of Harley Quinn.
   credit: NBC
   alt-text: Arleen Sorkin smiling.

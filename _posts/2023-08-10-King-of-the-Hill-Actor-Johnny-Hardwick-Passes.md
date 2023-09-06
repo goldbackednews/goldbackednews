@@ -6,10 +6,11 @@ author-title: Staff Writer
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/640/320/Johnny_Hardwick_Display.jpg?ve=1&tl=1
   cutline: Voice actor Johnny Hardwick has died at age 64
-  credit: Everrett Collection/YouTube: Johnny Hardwick
+  credit: Everrett Collection/YouTube Johnny Hardwick
   alt-text: Voice actor Johnny Hardwick has died at age 64
 layout: post
 category: News
+date: 2023-08-10 12:53
 ---
 
 The entertainment industry is mourning the loss of Johnny Hardwick, the acclaimed voice actor renowned for his portrayal of Dale Gribble in the popular animated series "King of the Hill." At the age of 64, Hardwick's demise has left many in shock.
