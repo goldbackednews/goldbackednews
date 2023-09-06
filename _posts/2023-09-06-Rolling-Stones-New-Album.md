@@ -1,5 +1,5 @@
 ---
-title: The Rolling Stones Rock London - Unveil 'Hackney Diamonds"'
+title: The Rolling Stones Rock London - Unveil 'Hackney Diamonds'
 subhed: The legendary band drops their first album in nearly two decades amidst a storm of eager fans and mystique.
 author: Pat Franklin
 author-title: Staff Writer
