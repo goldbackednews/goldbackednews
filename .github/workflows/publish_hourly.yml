@@ -3,7 +3,8 @@ name: Publish Scheduled Posts
 on:
   workflow_dispatch:  # This allows manual triggering
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 4-23 * * *'
+    - cron: '0 0-3 * * *'
 
 jobs:
   publish_scheduled:
