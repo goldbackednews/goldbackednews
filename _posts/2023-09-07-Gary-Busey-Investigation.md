@@ -1,16 +1,16 @@
 ---
-title: Hollywood Actor Gary Busey - Another Accident Controversy
-subhed: 'Lethal Weapon' star faces allegations of a hit-and-run on the Pacific Coast Highway.
-author: Pat Franklin
-author-title: Staff Writer
+title: "Hollywood Actor Gary Busey - Another Accident Controversy"
+subhed: "'Lethal Weapon' star faces allegations of a hit-and-run on the Pacific Coast Highway."
+author: "Pat Franklin"
+author-title: "Staff Writer"
 featured-image: 
-  path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/720/405/garybusey.jpg?ve=1&tl=1
-  cutline: Gary Busey, known for roles in 'Lethal Weapon' and 'Point Break.'
-  credit: Michael S. Schwartz/Getty Images
-  alt-text: Portrait of actor Gary Busey.
+  path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/720/405/garybusey.jpg?ve=1&tl=1"
+  cutline: "Gary Busey, known for roles in 'Lethal Weapon' and 'Point Break.'"
+  credit: "Michael S. Schwartz/Getty Images"
+  alt-text: "Portrait of actor Gary Busey."
 layout: post
 category: Entertainment
-date: 2023-09-07 15:49
+date: "2023-09-07 15:49"
 ---
 
 Gary Busey, famed for his roles in blockbuster hits like "Lethal Weapon" and "Point Break," is under the spotlight yet again, this time for his alleged involvement in a hit-and-run car accident.
