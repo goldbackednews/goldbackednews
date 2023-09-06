@@ -5,9 +5,9 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: https://www.newsmax.com/CMSPages/GetFile.aspx?guid=15b3216c-c6ff-4f5a-82e9-b57ec80db7d1&SiteName=Newsmax&maxsidesize=600
-  cutline: ''Now Hiring'' sign'
+  cutline: '''Now Hiring'' sign'
   credit: AP
-  alt-text: ''Now Hiring'' sign.'
+  alt-text: '''Now Hiring'' sign.'
 layout: post
 category: News
 date: 2023-08-29 14:38
