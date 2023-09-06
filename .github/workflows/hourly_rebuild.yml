@@ -1,9 +1,6 @@
-name: Rebuild Jekyll Site
+name: Rebuild Jekyll Site Every Hour
 
 on: 
-  push:
-    paths:
-      - '.force-rebuild'
   schedule:
     - cron: '0 * * * *'  # This cron expression triggers the workflow every hour on the hour
 
@@ -25,3 +22,11 @@ jobs:
       run: |
         bundle install
         bundle exec jekyll build
+
+    - name: Deploy to GitHub Pages (if applicable)
+      if: success()
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git add -A
+        git commit -m "Automated Jekyll rebuild"
+        git push
