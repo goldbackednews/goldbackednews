@@ -1,0 +1,20 @@
+name: Publish Scheduled Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  publish_scheduled:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      
+    - name: Publish Scheduled Posts
+      uses: soywiz/github-action-jekyll-publish-drafts@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        jekyll_path: ./
