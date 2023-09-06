@@ -1,0 +1,27 @@
+name: Rebuild Jekyll Site
+
+on: 
+  push:
+    paths:
+      - '.force-rebuild'
+  schedule:
+    - cron: '0 * * * *'  # This cron expression triggers the workflow every hour on the hour
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.2.2
+        bundler-cache: true
+
+    - name: Build Jekyll site
+      run: |
+        bundle install
+        bundle exec jekyll build
