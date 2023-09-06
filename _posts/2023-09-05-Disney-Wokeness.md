@@ -5,9 +5,9 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frightedition.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fdisney-woke.jpg&f=1&nofb=1&ipt=9cc47689fd8652691671787df74afaada39b7cb0eae53a97b109b15d1e6785cf&ipo=images"
-  cutline: 'Star Wars' font replaced by 'Woke Wars' in reference to Disney's adoption of leftist policies
-  credit: Right Edition
-  alt-text: 'Star Wars' font replaced by 'Woke Wars'
+  cutline: 'Star Wars'' font replaced by ''Woke Wars'' in reference to Disney''s adoption of leftist policies'
+  credit: Rightedition.com
+  alt-text: 'Star Wars'' font replaced by ''Woke Wars'''
 layout: post
 category: News
 date: 2023-09-05 18:24
