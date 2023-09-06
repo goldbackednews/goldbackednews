@@ -1,10 +1,10 @@
 ---
-title: Shock in HMP Wakefield: Rock Star Ian Watkins Viciously Attacked Behind Bars!
+title: "Shock in HMP Wakefield: Rock Star Ian Watkins Viciously Attacked Behind Bars!"
 subhed: Former Lostprophets frontman, imprisoned for horrific child sex crimes, faces near-death encounter with inmates.
 author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
-  path: "https://media.breitbart.com/media/2023/08/ian-watkins-mugshot-640x480.jpg"
+  path: https://media.breitbart.com/media/2023/08/ian-watkins-mugshot-640x480.jpg
   cutline: A mugshot of Ian Watkins, former Lostprophets singer.
   credit: South Wales Police
   alt-text: Close-up photo of Ian Watkins, known for his association with the band Lostprophets.
