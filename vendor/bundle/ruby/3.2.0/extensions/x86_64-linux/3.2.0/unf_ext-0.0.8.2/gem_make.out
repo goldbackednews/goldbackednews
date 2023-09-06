@@ -1,0 +1,19 @@
+current directory: /home/runner/work/goldbackednews/goldbackednews/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/opt/hostedtoolcache/Ruby/3.2.2/x64/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/runner/work/goldbackednews/goldbackednews/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230906-1740-1i65bq sitelibdir\=./.gem.20230906-1740-1i65bq clean
+
+current directory: /home/runner/work/goldbackednews/goldbackednews/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230906-1740-1i65bq sitelibdir\=./.gem.20230906-1740-1i65bq
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/runner/work/goldbackednews/goldbackednews/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230906-1740-1i65bq sitelibdir\=./.gem.20230906-1740-1i65bq install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20230906-1740-1i65bq
+
+current directory: /home/runner/work/goldbackednews/goldbackednews/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230906-1740-1i65bq sitelibdir\=./.gem.20230906-1740-1i65bq clean
