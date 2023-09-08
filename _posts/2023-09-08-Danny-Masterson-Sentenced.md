@@ -4,7 +4,7 @@ subhed: 'That '70s Show' Actor Confronts His Past in High-Profile Rape Case Verd
 author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
-  path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/05/720/405/danny-masterson-bijou-phillips.jpg?ve=1&tl=1
+  path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/05/720/405/danny-masterson-bijou-phillips.jpg?ve=1&tl=1"
   cutline: Danny Masterson was found guilty of rape in May. 
   credit: Myung J. Chun
   alt-text: Danny Masterson was found guilty of rape in May.
