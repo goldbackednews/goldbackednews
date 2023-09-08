@@ -5,7 +5,7 @@ author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
   path: https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/720/405/Jill_Duggar_Derick_Dillard.jpg?ve=1&tl=1
-  cutline: Jill Duggar Dillard and Derick Dillard shed light on their time with the reality show "19 Kids and Counting."
+  cutline: Jill Duggar Dillard and Derick Dillard shed light on their time with the reality show '19 Kids and Counting.'
   credit: Instagram: Jill Duggar Dillard
   alt-text: A photo of Jill and Derick Dillard
 layout: post
