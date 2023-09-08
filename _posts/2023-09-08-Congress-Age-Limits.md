@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1440/810/Untitled-12.jpg?ve=1&tl=1"
-  cutline: From left: Rep. Grace Napolitano, D-Calif., Sen. Mitch McConnell, R-Ky., Sen. Dianne Feinstein, D-Calif., Sen. Chuck Grassley, R-Iowa, and Rep. Nancy Pelosi, D-Calif.
+  cutline: From left - Rep. Grace Napolitano, D-Calif., Sen. Mitch McConnell, R-Ky., Sen. Dianne Feinstein, D-Calif., Sen. Chuck Grassley, R-Iowa, and Rep. Nancy Pelosi, D-Calif.
   credit: "Tom Williams CQ-Roll Call Inc., Bill Clark CQ-Roll Call Inc., Paul Morigi via Getty Images"
   alt-text: Aging members of Congress.
 layout: post
