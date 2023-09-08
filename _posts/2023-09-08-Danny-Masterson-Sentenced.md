@@ -1,6 +1,6 @@
 ---
 title: Danny Masterson Faces 30-Year Sentence Amidst Controversy
-subhed: 'That '70s Show' Actor Confronts His Past in High-Profile Rape Case Verdict
+subhed: "'That '70s Show' Actor Confronts His Past in High-Profile Rape Case Verdict"
 author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
