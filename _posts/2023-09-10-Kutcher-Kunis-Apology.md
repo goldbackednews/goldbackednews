@@ -6,7 +6,7 @@ author-title: Staff Writer
 featured-image: 
   path: https://media.breitbart.com/media/2023/09/ashtonkutchermilakunis2-640x480.jpg
   cutline: Ashton Kutcher and Mila Kunis express remorse over their letters in support of Danny Masterson.
-  credit: @apluk/Instagram
+  credit: "@apluk/Instagram"
   alt-text: A portrait of Ashton Kutcher and Mila Kunis.
 layout: post
 category: Entertainment
