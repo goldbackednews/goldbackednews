@@ -8,7 +8,7 @@ featured-image:
   cutline: Former President Donald Trump addresses the press with Dr. Fauci in the background
   credit: New York Post
   alt-text: Former President Donald Trump addresses the press
-category: Entertainment
+category: Politics
 date: 2023-09-10 06:00
 ---
 
