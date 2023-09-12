@@ -9,7 +9,7 @@ featured-image:
   credit: Elsa/Getty Images
   alt-text: Aaron Rodgers being helped by team trainers at MetLife Stadium.
 layout: post
-category: Sports
+category: Entertainment
 date: 2023-09-12 09:00
 ---
 

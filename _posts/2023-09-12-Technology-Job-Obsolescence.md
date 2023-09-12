@@ -9,7 +9,7 @@ featured-image:
   credit: "Boston Dynamics/YouTube"
   alt-text: Boston Dynamics loader robot working efficiently.
 layout: post
-category: Technology
+category: News
 date: 2023-09-12 10:01
 ---
 
