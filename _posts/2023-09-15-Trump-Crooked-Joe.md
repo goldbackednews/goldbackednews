@@ -1,12 +1,12 @@
 ---
-title: "One Down, Eleven to Go" - Trump Fires at "Crooked Joe" Amid Hunter Biden's Charges
+title: 'One Down, Eleven to Go' - Trump Fires at 'Crooked Joe' Amid Hunter Biden's Charges
 subhed: Former President Casts Doubt on Hunter's Indictment and Targets Joe Biden's Integrity
 author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
-  path: https://www.hollywoodreporter.com/wp-content/uploads/2016/07/donald_trump_rnc_speech_7_h_2016.jpg?w=2000&h=1126&crop=1
+  path: "https://www.hollywoodreporter.com/wp-content/uploads/2016/07/donald_trump_rnc_speech_7_h_2016.jpg?w=2000&h=1126&crop=1"
   cutline: Former President Donald Trump addressing a crowd.
-  credit: ALEX WONG/GETTY IMAGES
+  credit: "ALEX WONG/GETTY IMAGES"
   alt-text: Donald Trump on stage.
 layout: post
 category: Politics
