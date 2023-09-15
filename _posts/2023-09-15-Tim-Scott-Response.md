@@ -1,12 +1,12 @@
 ---
 title: Tim Scott Fires Back - Claims Democrat Party 'Stuck in Jim Crow Era'
-subhed: "2024 Republican Presidential Candidate Responds to "The View" Comment, Criticizes Progressive Left's Attitudes"
+subhed: "2024 Republican Presidential Candidate Responds to 'The View' Comment, Criticizes Progressive Left's Attitudes"
 author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
-  path: https://media.vanityfair.com/photos/648f3a67fa3d2f4f2b895501/master/w_1280,c_limit/1257257698
-  cutline: "Senator Tim Scott addressing recent comments on national television.
-  credit: Allison Joyce?Getty Images"
+  path: "https://media.vanityfair.com/photos/648f3a67fa3d2f4f2b895501/master/w_1280,c_limit/1257257698"
+  cutline: Senator Tim Scott addressing recent comments on national television.
+  credit: "Allison Joyce/Getty Images"
   alt-text: Senator Tim Scott giving a speech.
 layout: post
 category: Politics
