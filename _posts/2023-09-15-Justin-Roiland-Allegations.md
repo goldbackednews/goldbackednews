@@ -1,7 +1,7 @@
 ---
 title: Shockwaves in Animation - Justin Roiland Under Fire for Disturbing Allegations
 subhed: Co-Creator of 'Rick and Morty' Faces Accusations of Sexual Assault and Inappropriate Messaging
-author: Donna Teetree
+author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
   path: https://media.breitbart.com/media/2023/09/JustinRoiland3--640x480.jpg
@@ -9,7 +9,7 @@ featured-image:
   credit: Frederick M. Brown/Getty Images
   alt-text: Justin Roiland, co-creator of 'Rick and Morty', facing serious allegations.
 layout: post
-category: News
+category: Entertainment
 date: 2023-09-15 10:05
 ---
 
