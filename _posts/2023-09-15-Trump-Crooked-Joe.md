@@ -1,5 +1,5 @@
 ---
-title: ''One Down, Eleven to Go' - Trump Fires at 'Crooked Joe' Amid Hunter Biden's Charges'
+title: '''One Down, Eleven to Go'' - Trump Fires at ''Crooked Joe'' Amid Hunter Biden''s Charges'
 subhed: Former President Casts Doubt on Hunter's Indictment and Targets Joe Biden's Integrity
 author: Charles Standard
 author-title: Senior Political Correspondent
@@ -11,6 +11,7 @@ featured-image:
 layout: post
 category: Politics
 date: 2023-09-15 08:00
+
 ---
 
 In a fiery denouncement, former President Donald Trump recently castigated the indictment of Hunter Biden on three gun charges, notably emphasizing their lack of connection to President Joe Biden, whom he infamously termed "Crooked Joe". This overt criticism not only underscores Trump's tenacious grip on conservative narratives but also showcases the deep-seated partisanship that continues to dominate American politics.
