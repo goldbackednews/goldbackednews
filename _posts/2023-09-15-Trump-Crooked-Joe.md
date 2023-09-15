@@ -1,5 +1,5 @@
 ---
-title: 'One Down, Eleven to Go' - Trump Fires at 'Crooked Joe' Amid Hunter Biden's Charges
+title: ''One Down, Eleven to Go' - Trump Fires at 'Crooked Joe' Amid Hunter Biden's Charges'
 subhed: Former President Casts Doubt on Hunter's Indictment and Targets Joe Biden's Integrity
 author: Charles Standard
 author-title: Senior Political Correspondent
