@@ -19,7 +19,7 @@ google_analytics: G-LVVZX57YYK
 # Ads
 adsense:
   enabled: true
-  data-ad-client: google.com, pub-7165032548098746, DIRECT, f08c47fec0942fa0
+  data-ad-client: pub-7165032548098746
 
 # Collections
 collections:
