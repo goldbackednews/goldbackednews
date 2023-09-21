@@ -1,16 +1,16 @@
 ---
-title: Defending Gibson - Director Speaks Out on Casting Controversy
-subhed: Albert Hughes stands by decision to cast Mel Gibson in 'John Wick' spin-off amidst fan backlash.
+title: "Defending Gibson - Director Speaks Out on Casting Controversy"
+subhed: "Albert Hughes stands by decision to cast Mel Gibson in 'John Wick' spin-off amidst fan backlash."
 author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
   path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/672/378/Mel_Gibson_3.jpg?ve=1&tl=1"
-  cutline: Mel Gibson's casting in "The Continental: From the World of John Wick" sparks debate.
+  cutline: "Mel Gibson's casting in \"The Continental: From the World of John Wick\" sparks debate."
   credit: "Mike Marsland/Mike Marsland/WireImage via Getty Images"
-  alt-text: Mel Gibson at an event.
+  alt-text: "Mel Gibson at an event."
 layout: post
 category: Entertainment
-date: 2023-09-21 08:05
+date: "2023-09-21 08:05"
 ---
 
 Amidst a wave of mixed reactions, Albert Hughes, the director of the new TV series "The Continental: From the World of John Wick", is defending his choice to cast Mel Gibson. The series, a prequel to the successful "John Wick" films, features Gibson in the role of Cormac, the manager of the New York Continental.
