@@ -1,12 +1,12 @@
 ---
-title: Tragedy Unveiled - The Untimely Passing of Angus Cloud
-subhed: 'Euphoria' Star's Untimely Death Puts Spotlight on Accidental Overdose and Mental Health Struggles
+title: "Tragedy Unveiled - The Untimely Passing of Angus Cloud"
+subhed: "'Euphoria' Star's Untimely Death Puts Spotlight on Accidental Overdose and Mental Health Struggles"
 author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
   path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/720/405/Zendaya_Angus-Cloud.jpg?ve=1&tl=1"
   cutline: Angus Cloud, remembered by co-stars and fans.
-  credit: [To be replaced with the appropriate photo credit]
+  credit: "Matt Winkelmeyer/VF22/WireImage for Vanity Fair/Getty Images"
   alt-text: Angus Cloud (right) smiling at an event.
 layout: post
 category: Entertainment
