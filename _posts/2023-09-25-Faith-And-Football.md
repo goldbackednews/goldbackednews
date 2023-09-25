@@ -9,7 +9,7 @@ featured-image:
   credit: "Sean Gardner/Getty Images"
   alt-text: Demario Davis in uniform.
 layout: post
-category: Sports
+category: Entertainment
 date: 2023-09-25 13:34
 ---
 
