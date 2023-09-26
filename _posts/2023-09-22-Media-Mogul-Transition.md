@@ -9,7 +9,7 @@ featured-image:
   credit: "Frank Micelotta/Fox Corp © 2019"
   alt-text: Image of Rupert Murdoch addressing an audience
 layout: post
-category: Media
+category: News
 date: 2023-09-22 06:00
 ---
 

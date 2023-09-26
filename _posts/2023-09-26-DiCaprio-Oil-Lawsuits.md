@@ -1,7 +1,7 @@
 ---
 title: DiCaprio's Alleged Dark Money in Big Oil Lawsuits
 subhed: Republican lawmakers delve into alleged secretive funding by the star in environment-related lawsuits
-author: Donna Teetree
+author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
   path: "https://media.breitbart.com/media/2023/09/LeonardoDiCaprio5-640x480.jpg"
@@ -9,7 +9,7 @@ featured-image:
   credit: "Photo by PATRICIA DE MELO MOREIRA/AFP via Getty Images"
   alt-text: "Leonardo DiCaprio posing during a photocall for the film 'Killers of the Flower Moon.'"
 layout: post
-category: News
+category: Entertainment
 date: 2023-09-26 10:15
 ---
 
