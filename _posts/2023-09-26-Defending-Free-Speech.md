@@ -31,9 +31,7 @@ Prosecutors argue that Trump’s aggressive remarks not only intimidate individu
 
 ## Constitutional Shield: Trump’s Defense
 
-Trump is also combating initiatives by certain Democrats to prohibit his presence on the 2024 presidential primary ballots, leveraging the protective provisions of the U.S. Constitution as his safeguard. Several states are concurrently striving to exclude his candidacy owing to his purported role in the Capitol incidents on January 6, 2021, perceived by opponents as a rebellion against the nation.
-
-> His lawyers are steadfast in their stance that Trump’s commentary regarding the 2020 elections is constitutionally protected, refuting any insinuations of his involvement in the alleged insurrection.
+Trump is also combating initiatives by certain Democrats to prohibit his presence on the 2024 presidential primary ballots, leveraging the protective provisions of the U.S. Constitution as his safeguard. Several states are concurrently striving to exclude his candidacy owing to his purported role in the Capitol incidents on January 6, 2021, perceived by opponents as a rebellion against the nation. His lawyers are steadfast in their stance that Trump’s commentary regarding the 2020 elections is constitutionally protected, refuting any insinuations of his involvement in the alleged insurrection.
 
 ## In Conclusion: A Quest for Free Speech
 
