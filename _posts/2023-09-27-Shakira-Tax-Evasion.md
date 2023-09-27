@@ -1,6 +1,6 @@
 ---
 title: Shakira Faces the Music - Second Tax Evasion Charge Hits the Pop Star
-subhed: "Accused of Owing Millions, The "Hips Don't Lie" Singer Gears Up for Court"
+subhed: "Accused of Owing Millions, The 'Hips Don't Lie' Singer Gears Up for Court"
 author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
