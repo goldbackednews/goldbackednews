@@ -1,15 +1,15 @@
 ---
 title: Championing the American Dream - A Stand Against Globalism
 subhed: Former President Trump Advocates for Economic Nationalism and American Labor
-author: Donna Teetree
-author-title: Staff Writer
+author: Charles Standard
+author-title: Senior Political Correspondent
 featured-image: 
   path: "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b712fabb-a431-491e-9e1c-7b5bf5b7ca91&SiteName=Newsmax&maxsidesize=600"
   cutline: Former President Donald Trump mocked President Joe Biden's pandering to the United Auto Workers labor union bosses. 
   credit: Newsmax
   alt-text: Former President Donald Trump pointing to the crowd during a speech.
 layout: post
-category: News
+category: Politics
 date: 2023-09-28 08:01
 ---
 
