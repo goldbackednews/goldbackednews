@@ -1,6 +1,6 @@
 ---
 title: "A Long-awaited Break - Remains of Colorado's Missing Mom Suzanne Morphew Found"
-subhed: The Disappearance that Captivated a Nation Comes to a Sombre Closure
+subhed: The Disappearance that Captivated a Nation Comes to a Somber Closure
 author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
