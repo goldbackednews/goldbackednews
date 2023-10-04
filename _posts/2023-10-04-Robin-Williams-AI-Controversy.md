@@ -6,7 +6,7 @@ author-title: Staff Writer
 featured-image: 
   path: "https://media.breitbart.com/media/2023/10/ZeldaWilliams-640x480.jpg"
   cutline: "Robin Williams and Zelda Williams at a premiere event."
-  credit: "Steve Granitz/WireImage
+  credit: "Steve Granitz/WireImage"
   alt-text: "Zelda and Robin Williams on the red carpet."
 layout: post
 category: Entertainment
