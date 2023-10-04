@@ -4,9 +4,9 @@ subhed: "Florida's Anna Paulina Luna upholds American values in setting terms fo
 author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
-  path: "https://euro.eseuro.com/temp/resized/medium_2023-10-03-5b1d3637a7.jpg"
+  path: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.independent.co.uk%2F2022%2F11%2F20%2F12%2FElection_2022_GOP_Latinos_93414.jpg%3Fwidth%3D1200%26auto%3Dwebp&f=1&nofb=1&ipt=a54a916f27f650affd459c01ca715c5175207fe841252d26f44eb0127c80a9ca&ipo=images"
   cutline: "A determined Rep. Luna, a beacon of principle and hope, addressing reporters"
-  credit: "Euro.ESEuro"
+  credit: "The Associated Press"
   alt-text: "Rep. Anna Paulina Luna passionately advocating for transparent governance"
 layout: post
 category: Politics
