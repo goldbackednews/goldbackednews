@@ -6,7 +6,7 @@ author-title: Staff Writer
 featured-image: 
   path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/720/405/ID_8.jpg?ve=1&tl=1"
   cutline: "Detective Fil Waters at his desk, reflecting on his esteemed career."
-  credit: "Investigation Discovery/"The Interrogator""
+  credit: "Investigation Discovery/'The Interrogator'"
   alt-text: "Portrait of Det. Fil Waters."
 layout: post
 category: News
