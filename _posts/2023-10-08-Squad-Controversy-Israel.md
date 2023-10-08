@@ -10,7 +10,7 @@ featured-image:
   alt-text: "Rep. Ilhan Omar, D-Minn."
 layout: post
 category: Politics
-date: 2023-10-08 1:45
+date: 2023-10-08 13:45
 ---
 
 Recent surprise attacks by Hamas on Israel has fueled ongoing tensions between staunchly conservative commentators and the progressive "Squad" Democrats known for criticizing Israel. The intensity of the backlash highlights the deep political divide over foreign policy in the Middle East.
