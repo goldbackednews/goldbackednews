@@ -5,7 +5,7 @@ author: Pat Franklin
 author-title: Staff Writer
 featured-image: 
   path: "https://media.breitbart.com/media/2023/10/BeyonceSelenaGomezTheRockArianaGrandeMessi-640x480.jpg"
-  cutline: "
+  cutline: "Collage of celebrities who remained silent on the Israel-Hamas situation"
   alt-text: "Celebrity faces including Beyonce, Dwayne Johnson, Selena Gomez, and more"
 layout: post
 category: Entertainment
