@@ -1,15 +1,15 @@
 ---
 title: "Drunken Intruder’s Midnight Romp in Kid's Room Interrupted by Armed Dad"
 subhed: "North Dakota father holds naked suspect at gunpoint after a startling home disturbance."
-author: Charles Standard
-author-title: Senior Political Correspondent
+author: Donna Teetree
+author-title: Staff Writer
 featured-image: 
   path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/720/405/northdakotacrime.png?ve=1&tl=1"
   cutline: "Suspect Alvin Ducheneaux was arrested in Bismarck, North Dakota, this month after allegedly breaking into a home while intoxicated and naked."
   credit: "Burleigh County Sheriffs Office"
   alt-text: "Suspect Alvin Ducheneaux's mugshot."
 layout: post
-category: Politics
+category: News
 date: 2023-10-13 15:07
 ---
 
