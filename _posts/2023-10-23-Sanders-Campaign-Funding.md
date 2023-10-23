@@ -1,5 +1,5 @@
 ---
-title: "Financial Entanglements: Bernie Sanders' Campaign Funds Funnelled to Family Nonprofit"
+title: "Financial Entanglements: Bernie Sanders' Campaign Funds Funneled to Family Nonprofit"
 subhed: "Recent transactions raise questions about the ethical implications of Sanders’ financial dealings with family-run institute."
 author: Charles Standard
 author-title: Senior Political Correspondent
