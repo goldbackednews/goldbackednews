@@ -13,7 +13,7 @@ category: Politics
 date: 2023-10-23 15:04
 ---
 
-In a surprising twist in the Republican primary race, former President Donald Trump has not just maintained but significantly bolstered his leading position, boasting a double-digit increase in support since June. This comes amidst a series of legal challenges and his conspicuous absence from the initial two GOP primary debates. In contrast, his primary rival, Florida Governor Ron DeSantis, is facing a downward spiral, losing support rapidly, according to the latest data from a USA TODAY/Suffolk University Poll.
+Former President Donald Trump has not just maintained but significantly bolstered his leading position, boasting a double-digit increase in support since June. This comes amidst a series of legal challenges and his conspicuous absence from the initial two GOP primary debates. In contrast, his primary rival, Florida Governor Ron DeSantis, is facing a downward spiral, losing support rapidly, according to the latest data from a USA TODAY/Suffolk University Poll.
 
 The survey paints a clear picture: Trump has successfully captivated the majority of Republican voters, with 58 percent throwing their weight behind him, marking a robust ten-point climb since June. DeSantis, on the other hand, finds himself lagging substantially, trailing by a staggering 46 points at 12 percent support — a sharp 11-point decrease from his 23 percent standing in June.
 
