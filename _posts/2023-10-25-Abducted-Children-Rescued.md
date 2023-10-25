@@ -3,9 +3,9 @@ title: "Miraculous Rescue: Eight Abducted Children Found Safe in California"
 subhed: "A tip-off leads to the swift recovery of eight kidnapped children and the arrest of their biological mother."
 author: Donna Teetree
 author-title: Staff Writer
-featured-image: 
+featured-image:
   path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/720/405/trista-fullerton-2.jpg?ve=1&tl=1"
-  cutline: "A police tip about a "woman displaying bizarre behavior" led police to this store where they found eight abducted children."
+  cutline: "A police tip about a 'woman displaying bizarre behavior' led police to this store where they found eight abducted children."
   credit: "Anderson Police Department"
   alt-text: "Pickup truck stopped by police in front of a store."
 layout: post
