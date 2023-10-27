@@ -5,9 +5,9 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/720/405/Squad.jpg?ve=1&tl=1"
-  cutline: "Members of the far-left "Squad" from left to right: Reps. Alexandria Ocasio-Cortez, D-N.Y., Cori Bush, D-Mo., Rashida Tlaib, D-Mich., and Ilhan Omar, D-Minn."
+  cutline: "Members of the far-left 'Squad' from left to right: Reps. Alexandria Ocasio-Cortez, D-N.Y., Cori Bush, D-Mo., Rashida Tlaib, D-Mich., and Ilhan Omar, D-Minn."
   credit: "Getty Images"
-  alt-text: "Members of the "Squad" from left to right: Reps. Alexandria Ocasio-Cortez, D-N.Y., Cori Bush, D-Mo., Rashida Tlaib, D-Mich., and Ilhan Omar, D-Minn."
+  alt-text: "Members of the 'Squad' from left to right: Reps. Alexandria Ocasio-Cortez, D-N.Y., Cori Bush, D-Mo., Rashida Tlaib, D-Mich., and Ilhan Omar, D-Minn."
 layout: post
 category: Politics
 date: 2023-10-27 06:00
