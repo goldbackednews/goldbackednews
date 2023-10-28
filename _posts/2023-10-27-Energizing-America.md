@@ -5,7 +5,7 @@ author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
   path: "https://media.breitbart.com/media/2023/10/Speaker-Mike-Johnson-Weilds-Gavel-1-640x480.jpeg"
-  cutline: "Republican National Committee chair Ronna McDaniel."
+  cutline: "Speaker Mike Johnson (R-LA)."
   credit: "Aaron Schwartz/Xinhua via Getty Images"
   alt-text: "Speaker Mike Johnson (R-LA)"
 layout: post
