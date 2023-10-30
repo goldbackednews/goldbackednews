@@ -1,15 +1,15 @@
 ---
 title: "On the Brink: George Santos Faces Potential Expulsion from Congress"
 subhed: "New York Republicans rally votes in a historic move to oust Rep. George Santos"
-author: Donna Teetree
-author-title: Staff Writer
+author: Charles Standard
+author-title: Senior Political Correspondent
 featured-image: 
   path: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.breitbart.com%2Fmedia%2F2023%2F01%2FGettyImages-1461105039-1-640x335.jpg&f=1&nofb=1&ipt=4c3863866c7114ae6561f400d1b9a9e92ad0cc7911ed24f38b3b58e0ac331001&ipo=images"
   cutline: "Rep. George Santos (R-NY), is close to being expelled from Congress."
   credit: "Photo by John Doe"
   alt-text: "Rep. George Santos (R-NY)"
 layout: post
-category: News
+category: Politics
 date: 2023-10-30 16:25
 ---
 
