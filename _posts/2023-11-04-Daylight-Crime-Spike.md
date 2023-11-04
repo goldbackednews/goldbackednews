@@ -5,7 +5,7 @@ author: Donna Teetree
 author-title: Staff Writer
 featured-image: 
   path: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/11/720/405/iStock-1301293770-e1699027135158.jpg?ve=1&tl=1"
-  cutline: ""According to a new study, crime rises when Americans turn their clocks back at the end of daylight saving time."
+  cutline: "According to a new study, crime rises when Americans turn their clocks back at the end of daylight saving time."
   credit: "iStock"
   alt-text: "Crime rises when Americans turn their clocks back at the end of daylight saving time."
 layout: post
