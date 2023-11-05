@@ -4,10 +4,10 @@ subhed: "Trump leads in five crucial swing states, hinting at a potential red wa
 author: Charles Standard
 author-title: Senior Political Correspondent
 featured-image: 
-  path: "to-be-replaced-with-an-appropriate-image-link-from-your-end"
-  cutline: "Former President Donald Trump at a rally in one of the swing states."
-  credit: "to-be-replaced-with-the-appropriate-photo-credit"
-  alt-text: "Donald Trump speaking energetically to a crowd of supporters."
+  path: "https://media.breitbart.com/media/2022/01/biden-upset-trump-inset-getty-640x480.jpg"
+  cutline: "Former President Donald Trump is rising in the polls over Biden."
+  credit: "Alex Wong/Getty Images, Inset: NICHOLAS KAMM/AFP/Getty Images, BNN Edit"
+  alt-text: "Donald Trump smiling and Joe Biden speaking at a podium."
 layout: post
 category: Politics
 date: 2023-11-05 11:20
