@@ -9,7 +9,7 @@ featured-image:
   credit: "Paul Connors/MediaNews Group/Boston Herald via Getty Images"
   alt-text: "Student at book fair."
 layout: post
-category: Education
+category: Entertainment
 date: 2023-10-27 08:32
 ---
 
